@@ -1,0 +1,1107 @@
+{
+  "type": "series",
+  "episodes": [
+    {
+      "meta": {
+        "id": "584ba500a7d176bf14abe1a653417265",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/584ba500a7d176bf14abe1a653417265",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/584ba500a7d176bf14abe1a653417265",
+        "sid": "584ba500a7d176bf14abe1a653417265",
+        "wid": "584ba500a7d176bf14abe1a653417265"
+      },
+      "episodeNumber": "1",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2423,
+      "title": "The Catevari",
+      "description": "Darien must capture a Catevari, a man-made monster who can kill with a mere scratch of his fingernails.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZDczNjJkMjQtZTc3NS00MGI4LWE2NWEtZDE4MGZiNTc3YmU4",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "1370a003b34f5caeadb328c72336ec9e",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/1370a003b34f5caeadb328c72336ec9e",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/1370a003b34f5caeadb328c72336ec9e",
+        "sid": "1370a003b34f5caeadb328c72336ec9e",
+        "wid": "1370a003b34f5caeadb328c72336ec9e"
+      },
+      "episodeNumber": "1",
+      "seasonNumber": "1",
+      "runTimeSeconds": 5160,
+      "title": "Pilot",
+      "description": "A small-time thief (Vincent Ventresca) must work for an underfunded governmental agency or get solitary confinement.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "0006db50fe935a7a87c12316bdd51cb1",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/0006db50fe935a7a87c12316bdd51cb1",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/0006db50fe935a7a87c12316bdd51cb1",
+        "sid": "0006db50fe935a7a87c12316bdd51cb1",
+        "wid": "0006db50fe935a7a87c12316bdd51cb1"
+      },
+      "episodeNumber": "3",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "Ralph",
+      "description": "Darien plays the imaginary friend of a girl being stalked by a deadly sniper.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NTc5NGUyYjgtNjNjMy00YWQwLTg4MzUtN2U5YjgwOGFkNWI2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "79f7c037229352ed9fbdb4c796a7aa61",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/79f7c037229352ed9fbdb4c796a7aa61",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/79f7c037229352ed9fbdb4c796a7aa61",
+        "sid": "79f7c037229352ed9fbdb4c796a7aa61",
+        "wid": "79f7c037229352ed9fbdb4c796a7aa61"
+      },
+      "episodeNumber": "4",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2640,
+      "title": "Tiresias",
+      "description": "Darien and his partner, Bobby Hobbes, investigate the suicide of a police officer.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MzJhZTczZGUtMmQ2Zi00ZWYzLThjNTgtOWJhMWFiY2JkNmY1",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "685a3baa5ac0592ab6410483decf887c",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/685a3baa5ac0592ab6410483decf887c",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/685a3baa5ac0592ab6410483decf887c",
+        "sid": "685a3baa5ac0592ab6410483decf887c",
+        "wid": "685a3baa5ac0592ab6410483decf887c"
+      },
+      "episodeNumber": "5",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "Impetus",
+      "description": "Darien sets off a disastrous chain of events when he spies on the Keeper.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZDJhZmU2MjUtZjU3MS00YjlhLWExMTAtOTFiMmIwYjI3ODNk",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "70bad8b000ed5815a5f414b0827ed671",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/70bad8b000ed5815a5f414b0827ed671",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/70bad8b000ed5815a5f414b0827ed671",
+        "sid": "70bad8b000ed5815a5f414b0827ed671",
+        "wid": "70bad8b000ed5815a5f414b0827ed671"
+      },
+      "episodeNumber": "6",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "The Devil You Know",
+      "description": "Darien is called in to help the Agency save a kidnapped businessman and thus raise their profile, but the man is accidently killed.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NzhlMzQ1ZTctMjU0OC00NGFlLWEwZGUtOTMwMzQxNDNiMTdi",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "9b6aa01481455232bc645ee338aeb422",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/9b6aa01481455232bc645ee338aeb422",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/9b6aa01481455232bc645ee338aeb422",
+        "sid": "9b6aa01481455232bc645ee338aeb422",
+        "wid": "9b6aa01481455232bc645ee338aeb422"
+      },
+      "episodeNumber": "7",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2580,
+      "title": "Liberty and Larceny",
+      "description": "Darien must choose between the past and the future when he runs into his old partner in crime.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MTMwYWJkY2QtN2UyNS00NThmLWE2ZTItY2E0MDNhOWE3NWVl",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "de6a6fa91d7954c3be9386f1351b5f54",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/de6a6fa91d7954c3be9386f1351b5f54",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/de6a6fa91d7954c3be9386f1351b5f54",
+        "sid": "de6a6fa91d7954c3be9386f1351b5f54",
+        "wid": "de6a6fa91d7954c3be9386f1351b5f54"
+      },
+      "episodeNumber": "8",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "The Value of Secrets",
+      "description": "While investigating a security breach, Darien discovers an opportunity to escape and must decide between helping himself and solving the case.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZTljNjc5ZDAtM2E2My00YmRmLWIyOTEtNTAwYjEwZmJhMDRl",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "0118cab964a5978c2d74831452599a6d",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/0118cab964a5978c2d74831452599a6d",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/0118cab964a5978c2d74831452599a6d",
+        "sid": "0118cab964a5978c2d74831452599a6d",
+        "wid": "0118cab964a5978c2d74831452599a6d"
+      },
+      "episodeNumber": "8",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2494,
+      "title": "Separation Anxiety",
+      "description": "Hobbes is worried that his ex-wife is going to marry a criminal, and his suspicions are borne out when Darien discovers that the man is planning to sell government weapons to a gangster.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MTAxNGZmMTEtYWJjZi00ZmQ1LTkzY2MtMGE0NzcwZjFhMzE2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "610ba4bc650656709a08830526c9af07",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/610ba4bc650656709a08830526c9af07",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/610ba4bc650656709a08830526c9af07",
+        "sid": "610ba4bc650656709a08830526c9af07",
+        "wid": "610ba4bc650656709a08830526c9af07"
+      },
+      "episodeNumber": "9",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2640,
+      "title": "Separation Anxiety",
+      "description": "A suspicious stranger turns out to be an undercover agent working to stop the sale of illegal weapons.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.OTJlZTM3MTktY2U2Mi00NzkyLTk3NzEtZTc1NzE4NmY3ZTIy",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "b3f0016b9162564a9f3f67e125a14807",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/b3f0016b9162564a9f3f67e125a14807",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/b3f0016b9162564a9f3f67e125a14807",
+        "sid": "b3f0016b9162564a9f3f67e125a14807",
+        "wid": "b3f0016b9162564a9f3f67e125a14807"
+      },
+      "episodeNumber": "10",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "It Hurts When You Do This",
+      "description": "Darien discovers a dangerous side to medical experiments after a friend is suddenly cured of short-term memory loss.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NjIyNzE2YWItNTgzYi00MDNiLThmOGYtYThiNDM0NWZhYjQx",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "33b90093398a5bbfa4d933c6c06875b6",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/33b90093398a5bbfa4d933c6c06875b6",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/33b90093398a5bbfa4d933c6c06875b6",
+        "sid": "33b90093398a5bbfa4d933c6c06875b6",
+        "wid": "33b90093398a5bbfa4d933c6c06875b6"
+      },
+      "episodeNumber": "12",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "Reunion",
+      "description": "Darien rides a roller coaster of high hopes and harsh realities after his brother Kevin, whom he thought was dead, mysteriously reappears.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.YWEyMTM3NGItMDVhYy00ZTRmLTljZTMtNDEyOGQwNTE0NmI0",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "5a1927e4e23c5070bc1ec04141a22cc5",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/5a1927e4e23c5070bc1ec04141a22cc5",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/5a1927e4e23c5070bc1ec04141a22cc5",
+        "sid": "5a1927e4e23c5070bc1ec04141a22cc5",
+        "wid": "5a1927e4e23c5070bc1ec04141a22cc5"
+      },
+      "episodeNumber": "13",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2640,
+      "title": "Cat & Mouse",
+      "description": "The Chinese government tries to steal the model, Darien Fawkes, after its attempts to create an invisible man fail.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.Y2QxZmNmZTgtZjUzMy00Mjk3LTllYTEtYzc1NTlmMjM2NzVh",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "17c6ab473cc15292b59bb05ca2ceae32",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/17c6ab473cc15292b59bb05ca2ceae32",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/17c6ab473cc15292b59bb05ca2ceae32",
+        "sid": "17c6ab473cc15292b59bb05ca2ceae32",
+        "wid": "17c6ab473cc15292b59bb05ca2ceae32"
+      },
+      "episodeNumber": "14",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2640,
+      "title": "Beholder",
+      "description": "The rest of the world becomes invisible to Darien after he's blinded while on the trail of an international assassin.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MWZkMzZmODMtNjQyNy00MTg5LWIxYzEtMzI0Y2VhNDI4ZTVi",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "8904c369f8d75161a4ba27e13bd67ec1",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/8904c369f8d75161a4ba27e13bd67ec1",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/8904c369f8d75161a4ba27e13bd67ec1",
+        "sid": "8904c369f8d75161a4ba27e13bd67ec1",
+        "wid": "8904c369f8d75161a4ba27e13bd67ec1"
+      },
+      "episodeNumber": "15",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "Ghost of a Chance",
+      "description": "Darien learns of the Dark Woman, another invisible entity, when he travels to South America to stop a nation's leader from deploying chemical weapons.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NWEyMzI4NWUtZjE2NC00NjVhLWJhNTQtYWQ4MTQ1NzAyYTg3",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "2096c87924d66fb5d751e0013faa7f16",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/2096c87924d66fb5d751e0013faa7f16",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/2096c87924d66fb5d751e0013faa7f16",
+        "sid": "2096c87924d66fb5d751e0013faa7f16",
+        "wid": "2096c87924d66fb5d751e0013faa7f16"
+      },
+      "episodeNumber": "15",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2539,
+      "title": "Flowers For Hobbes",
+      "description": "Hobbes is accidentally injected with a retrovirus that raises his intelligence to genius level, but also has a sinister side effect.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.YzdhY2ZmZDgtMGYyMS00ZTc0LWEyZWEtZjJmYjUzZDM0MDVh",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "4d09201b15a35c9b8d29298cc077121a",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/4d09201b15a35c9b8d29298cc077121a",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/4d09201b15a35c9b8d29298cc077121a",
+        "sid": "4d09201b15a35c9b8d29298cc077121a",
+        "wid": "4d09201b15a35c9b8d29298cc077121a"
+      },
+      "episodeNumber": "16",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "Flowers for Hobbes",
+      "description": "Darien finds a link to the past and Hobbes discovers a promising future when on the trail of the thief who stole samples from the Nobel Sperm bank.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.OTM5MDViNWMtYmI4YS00NmM0LTgyNmUtZjVkYzlhNmUyZThj",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "868b234662425b46af642bed7d5fc649",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/868b234662425b46af642bed7d5fc649",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/868b234662425b46af642bed7d5fc649",
+        "sid": "868b234662425b46af642bed7d5fc649",
+        "wid": "868b234662425b46af642bed7d5fc649"
+      },
+      "episodeNumber": "18",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "Frozen in Time",
+      "description": "Darien finds himself on a collision course with his past when the Dark Woman kidnaps an old friend and plans to cryogenically freeze her.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZjVjZTA4YzktNWI2NS00YjI0LWEwZjMtMjlmY2M4ZDk0NzE2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "0b746d1ab11a55acbbfdcf45257c45f3",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/0b746d1ab11a55acbbfdcf45257c45f3",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/0b746d1ab11a55acbbfdcf45257c45f3",
+        "sid": "0b746d1ab11a55acbbfdcf45257c45f3",
+        "wid": "0b746d1ab11a55acbbfdcf45257c45f3"
+      },
+      "episodeNumber": "19",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "Diseased",
+      "description": "Arnaud De Fehrn, Darien's old foe, orchestrates a flu outbreak that causes a deadly and mysterious infection in Darien's quicksilver gland.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZGM5NmE0M2ItZjdmNS00MjM0LTk2YTAtYmRiODRjNzljMzk2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "36d1750b603a59d0acb36dec72012400",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/36d1750b603a59d0acb36dec72012400",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/36d1750b603a59d0acb36dec72012400",
+        "sid": "36d1750b603a59d0acb36dec72012400",
+        "wid": "36d1750b603a59d0acb36dec72012400"
+      },
+      "episodeNumber": "20",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2700,
+      "title": "The Lesser Evil",
+      "description": "Darien reacts with cynicism toward an invitation from Allianora to attend a meeting with \"The Organization\" and begins to question his own agency's intentions.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NGIwZDcyNzQtYmVhZi00Y2IzLWIwNmItZWRhMDVlMTdiZDk2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "cf64179f4b5a524086feccdf476c0f90",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/cf64179f4b5a524086feccdf476c0f90",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/cf64179f4b5a524086feccdf476c0f90",
+        "sid": "cf64179f4b5a524086feccdf476c0f90",
+        "wid": "cf64179f4b5a524086feccdf476c0f90"
+      },
+      "episodeNumber": "21",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2640,
+      "title": "Money for Nothing",
+      "description": "The Agency develops a get-rich-quick scheme to fatten its paltry budget by using Darien's invisibility, but the temptation to escape with the stolen money gets the better of him.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NGY0ODU4YjAtNjIxMy00YjZlLWFlOTQtNGY1MzBlYTJhYTBk",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "a45c5c76a8fc90dc39b8ce427cd92488",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/a45c5c76a8fc90dc39b8ce427cd92488",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/a45c5c76a8fc90dc39b8ce427cd92488",
+        "sid": "a45c5c76a8fc90dc39b8ce427cd92488",
+        "wid": "a45c5c76a8fc90dc39b8ce427cd92488"
+      },
+      "episodeNumber": "22",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2529,
+      "title": "It's a Small World",
+      "description": "The Chrysalis organization implants a computer virus-like bug into Darien's bloodstream that enables them to follow his every move.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MGQ3N2IyOTItZWRjMy00N2ZkLWE0ZWUtYTY4NmRiZjBhMmQ5",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "05fbe174a75853a191d8d3ad905a4f00",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/05fbe174a75853a191d8d3ad905a4f00",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/05fbe174a75853a191d8d3ad905a4f00",
+        "sid": "05fbe174a75853a191d8d3ad905a4f00",
+        "wid": "05fbe174a75853a191d8d3ad905a4f00"
+      },
+      "episodeNumber": "22",
+      "seasonNumber": "1",
+      "runTimeSeconds": 2640,
+      "title": "Money for Nothing",
+      "description": "After temptation causes Darien to risk it all for a chance at freedom, he inches dangerously close to \"quicksilver madness\" and asks Hobbes to join him in his plan.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZDI0MGZjZjAtZjI1ZC00ZjExLThlMjgtMDIwNDlmOTFlYTdh",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "315363c94a745e8788ec9e4d322b97b7",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/315363c94a745e8788ec9e4d322b97b7",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/315363c94a745e8788ec9e4d322b97b7",
+        "sid": "315363c94a745e8788ec9e4d322b97b7",
+        "wid": "315363c94a745e8788ec9e4d322b97b7"
+      },
+      "episodeNumber": "1",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Legends",
+      "description": "Hobbes and The Keeper (Paul Ben-Victor, Shannon Kenny) help Darien (Vincent Ventresca) investigate a double homicide on an American Indian reservation.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MmZjMmJiYzItMmRhZS00ZjI1LWIwMzgtYzk3NjkwNTg0ZTBi",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e263593fee7a5e8f936ee6f01243274f",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e263593fee7a5e8f936ee6f01243274f",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e263593fee7a5e8f936ee6f01243274f",
+        "sid": "e263593fee7a5e8f936ee6f01243274f",
+        "wid": "e263593fee7a5e8f936ee6f01243274f"
+      },
+      "episodeNumber": "2",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "The Camp",
+      "description": "A series of kidnappings leads Darien and a new agent (Vincent Ventresca, Brandy Ledford) to a militia-style boot camp for children.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MjQxNmU2NjEtMTA2MC00MTRhLTgwNGEtMGQ0NzdmZWMzODFj",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "649e1cc1ef0c556c83084ad72e522c20",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/649e1cc1ef0c556c83084ad72e522c20",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/649e1cc1ef0c556c83084ad72e522c20",
+        "sid": "649e1cc1ef0c556c83084ad72e522c20",
+        "wid": "649e1cc1ef0c556c83084ad72e522c20"
+      },
+      "episodeNumber": "3",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "The Importance of Being Eberts",
+      "description": "Eberts is asked to use his expertise after Darien and Hobbes track down a computer hacker who has tapped into the Agency's system.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZWE0NjY5NWItOWFlMy00MzBkLTkxYzAtNTY5NWM0OWE1OTI2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "78c6166cbc2151d481c2f8b2150d80ec",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/78c6166cbc2151d481c2f8b2150d80ec",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/78c6166cbc2151d481c2f8b2150d80ec",
+        "sid": "78c6166cbc2151d481c2f8b2150d80ec",
+        "wid": "78c6166cbc2151d481c2f8b2150d80ec"
+      },
+      "episodeNumber": "4",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Johnny Apocalypse",
+      "description": "Darien and Hobbes find themselves faced with a 12-year-old boy who just happens to be the most destructive biological weapon ever developed.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZGI0ZmJkOGEtNGEwYi00MzA1LThlYjYtYjk0M2MxN2M1YzE5",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "4d6d097a90425dd8862007f02da4a139",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/4d6d097a90425dd8862007f02da4a139",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/4d6d097a90425dd8862007f02da4a139",
+        "sid": "4d6d097a90425dd8862007f02da4a139",
+        "wid": "4d6d097a90425dd8862007f02da4a139"
+      },
+      "episodeNumber": "5",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Going Postal",
+      "description": "Darien and Alex look on as Hobbes suffers from a mysteriously violent breakdown while under cover as a U.S. postal worker.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MjI3Yzg4YTktODAwOC00MjdhLTg4Y2ItZjk3OGNhZGVkYjIz",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "8dc8853929b353dd813a8d923254ca5b",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/8dc8853929b353dd813a8d923254ca5b",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/8dc8853929b353dd813a8d923254ca5b",
+        "sid": "8dc8853929b353dd813a8d923254ca5b",
+        "wid": "8dc8853929b353dd813a8d923254ca5b"
+      },
+      "episodeNumber": "6",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "Brother's Keeper",
+      "description": "Memory RNA makes it possible for Kevin Fawkes to return to life one final time, in the body of his brother, Darien.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NzBiMjQyZTItNmNhYy00MzExLThhMzYtYTI4ZjE2NDM0NzEy",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "3472a26bc69e5212906631c6f6cc02a3",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/3472a26bc69e5212906631c6f6cc02a3",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/3472a26bc69e5212906631c6f6cc02a3",
+        "sid": "3472a26bc69e5212906631c6f6cc02a3",
+        "wid": "3472a26bc69e5212906631c6f6cc02a3"
+      },
+      "episodeNumber": "7",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "Insensate",
+      "description": "A mysterious man who lost the use of his five senses due to a government experiment uses his sixth sense to warn Darien of imminent danger.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZTJkOWM4YjEtZDBlOS00NjdmLTg5ZWMtZjNhZDQ2MmIwNzZj",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "cc8d9de2fb075776a1413c98551eb5d7",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/cc8d9de2fb075776a1413c98551eb5d7",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/cc8d9de2fb075776a1413c98551eb5d7",
+        "sid": "cc8d9de2fb075776a1413c98551eb5d7",
+        "wid": "cc8d9de2fb075776a1413c98551eb5d7"
+      },
+      "episodeNumber": "8",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Den of Thieves",
+      "description": "While trying to bust up a ring of terrorists, Darien goes under cover as a thief and lands himself in prison.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.M2JhYWY4NDEtMGJiOS00ZjgzLWEyNWMtYjdmZWViZTFkOTFm",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "42c7275a4cd556318d82bba41d30b50e",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/42c7275a4cd556318d82bba41d30b50e",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/42c7275a4cd556318d82bba41d30b50e",
+        "sid": "42c7275a4cd556318d82bba41d30b50e",
+        "wid": "42c7275a4cd556318d82bba41d30b50e"
+      },
+      "episodeNumber": "9",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "Bad Chi",
+      "description": "Darien (Vincent Ventresca) gets himself into a very prickly situation when he sees an acupuncturist for his bad back.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZDEwMWFjMmUtZjM2Zi00NWRmLWE5ZmMtYmI2ZThiYzUwMzg2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "a63977372d1654c0943e31002aa56105",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/a63977372d1654c0943e31002aa56105",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/a63977372d1654c0943e31002aa56105",
+        "sid": "a63977372d1654c0943e31002aa56105",
+        "wid": "a63977372d1654c0943e31002aa56105"
+      },
+      "episodeNumber": "10",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Flash to Bang",
+      "description": "A lightning strike causes Darien to forget the agency and his abilities.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.Yjg0ZDIzMGEtZGFmNi00YTRlLWJhZWYtMzYxZTRkOWU4MjNl",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "56b805fec2205a638baf662d5d3b9b05",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/56b805fec2205a638baf662d5d3b9b05",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/56b805fec2205a638baf662d5d3b9b05",
+        "sid": "56b805fec2205a638baf662d5d3b9b05",
+        "wid": "56b805fec2205a638baf662d5d3b9b05"
+      },
+      "episodeNumber": "11",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "Germ Theory",
+      "description": "An invincible bacteria set loose on the I-Man team forces a quarantine at the Agency when members start unexpectedly turning invisible.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZjA4ZDcwZWYtZTE4Yy00MWVhLWFhZjItYjE3NmFkNzJhYjM0",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "849f7ac32c3a5abfa72e8d3090c4c5e3",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/849f7ac32c3a5abfa72e8d3090c4c5e3",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/849f7ac32c3a5abfa72e8d3090c4c5e3",
+        "sid": "849f7ac32c3a5abfa72e8d3090c4c5e3",
+        "wid": "849f7ac32c3a5abfa72e8d3090c4c5e3"
+      },
+      "episodeNumber": "12",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "The Choice",
+      "description": "Agent Alex Monroe learns that her child was fathered by a hated enemy after rescuing the baby from Chrysalis.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MGM1NzEyNzQtMzMyNC00NmQ0LWIyOTQtNjI0Y2EyNGNmNGE4",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "8b6ae6cc17eb5ef8b9c897e79bb585f5",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/8b6ae6cc17eb5ef8b9c897e79bb585f5",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/8b6ae6cc17eb5ef8b9c897e79bb585f5",
+        "sid": "8b6ae6cc17eb5ef8b9c897e79bb585f5",
+        "wid": "8b6ae6cc17eb5ef8b9c897e79bb585f5"
+      },
+      "episodeNumber": "13",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "Immaterial Girl",
+      "description": "A dark conspiracy rises before Darien's eyes while he investigates strange hallucinations he suffers from when invisible.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NmM5MmJmY2EtZGY0Ny00OWNjLTgwM2EtMjVjNzA0YWY4N2M0",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "43a8c9bf18435910a5f10fadb0809370",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/43a8c9bf18435910a5f10fadb0809370",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/43a8c9bf18435910a5f10fadb0809370",
+        "sid": "43a8c9bf18435910a5f10fadb0809370",
+        "wid": "43a8c9bf18435910a5f10fadb0809370"
+      },
+      "episodeNumber": "14",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Father Figure",
+      "description": "After suffering from haunting nightmares about his family, Darien visits his grandmother to get some answers about the father who abandoned him as a child.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.OTU0NjE1YzItYzAxNS00ZWExLThkMTMtNDY4YzMwMjM5ODZj",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e0ec853d8e405bbf8948f6c8f6d95364",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e0ec853d8e405bbf8948f6c8f6d95364",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e0ec853d8e405bbf8948f6c8f6d95364",
+        "sid": "e0ec853d8e405bbf8948f6c8f6d95364",
+        "wid": "e0ec853d8e405bbf8948f6c8f6d95364"
+      },
+      "episodeNumber": "15",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "A Sense of Community",
+      "description": "Federal agents once assumed dead capture Darien and Hobbes, who are investigating a new agency, and transport them to a mysterious place where they are forbidden to leave.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.YjVjYzNiZGUtMDg1Yy00ODkzLWE1MGQtNjE3NTJiNzU0MTJl",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "62a0ca996cfe509db335a4c91a303aaa",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/62a0ca996cfe509db335a4c91a303aaa",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/62a0ca996cfe509db335a4c91a303aaa",
+        "sid": "62a0ca996cfe509db335a4c91a303aaa",
+        "wid": "62a0ca996cfe509db335a4c91a303aaa"
+      },
+      "episodeNumber": "16",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "The Three Phases of Claire",
+      "description": "Claire involuntarily threatens to reveal the Invisible Man's secrets after she is injected with an experimental truth serum compliments of her kidnappers.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.MTYzOWYxODUtOGMxNy00YmE4LWIzY2EtZmE0N2FiYTVkNDg2",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "2394ebdebf1852e4812ea8cb9703a244",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/2394ebdebf1852e4812ea8cb9703a244",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/2394ebdebf1852e4812ea8cb9703a244",
+        "sid": "2394ebdebf1852e4812ea8cb9703a244",
+        "wid": "2394ebdebf1852e4812ea8cb9703a244"
+      },
+      "episodeNumber": "17",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "Exposed",
+      "description": "The agency finds out that Gaither's memory has returned and that he has a special plan in mind for Darien.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZGE0OGQzNDYtZGVmNS00NjQ3LWI3YTktZDk0ODQwYzM0NTEy",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "3cafa0b598c456c8b1497db3e5304346",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/3cafa0b598c456c8b1497db3e5304346",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/3cafa0b598c456c8b1497db3e5304346",
+        "sid": "3cafa0b598c456c8b1497db3e5304346",
+        "wid": "3cafa0b598c456c8b1497db3e5304346"
+      },
+      "episodeNumber": "18",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "The Invisible Woman",
+      "description": "A disfigured woman tries to enlist the help of Darien when she decides that she wants to be invisible forever.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZjAzNWY3OGItMmYzNS00YjU2LThjZjgtYTllMjExNDA4ZDcw",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "4f5d44e19134540299e143f93852b1b8",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/4f5d44e19134540299e143f93852b1b8",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/4f5d44e19134540299e143f93852b1b8",
+        "sid": "4f5d44e19134540299e143f93852b1b8",
+        "wid": "4f5d44e19134540299e143f93852b1b8"
+      },
+      "episodeNumber": "19",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Mere Mortals",
+      "description": "Darien is thrilled when the Keeper develops a way to keep his invisibility in check, but there are side effects.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NWNkMjM1NjItMjI1OS00ZDQ0LTk0MDAtMjA4ZTBjMDRkZDQ5",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "1edc1c27f6515782872aca868a29a44a",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/1edc1c27f6515782872aca868a29a44a",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/1edc1c27f6515782872aca868a29a44a",
+        "sid": "1edc1c27f6515782872aca868a29a44a",
+        "wid": "1edc1c27f6515782872aca868a29a44a"
+      },
+      "episodeNumber": "20",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2640,
+      "title": "Possessed",
+      "description": "Darien's sudden immunity to the counteragent forces the Keeper to use an untested antidote.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.NDI2YjE2MmUtYzM3YS00Nzc3LThiYWMtMDViMDc2MDdjMmQ1",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "6cfdfd8b5c89517eacd032f65234bf00",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/6cfdfd8b5c89517eacd032f65234bf00",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/6cfdfd8b5c89517eacd032f65234bf00",
+        "sid": "6cfdfd8b5c89517eacd032f65234bf00",
+        "wid": "6cfdfd8b5c89517eacd032f65234bf00"
+      },
+      "episodeNumber": "21",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "Enemy of My Enemy",
+      "description": "Darien's nemesis Arnaud needs help after striking a deal with Chrysalis and discovering they don't play fair.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.YmEwZTU1NTEtN2Y3My00ZmI3LTk3YzQtYTYyMzJjNjkwN2M1",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "7e6290da55b65d3aaa64897098f58bb0",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/7e6290da55b65d3aaa64897098f58bb0",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/7e6290da55b65d3aaa64897098f58bb0",
+        "sid": "7e6290da55b65d3aaa64897098f58bb0",
+        "wid": "7e6290da55b65d3aaa64897098f58bb0"
+      },
+      "episodeNumber": "22",
+      "seasonNumber": "2",
+      "runTimeSeconds": 2700,
+      "title": "The New Stuff",
+      "description": "Darien learns that the Keeper and the Official have been keeping antidote secrets.",
+      "viewOptions": [
+        {
+          "playId": "s-nbcu.ZGMwZjkzNmQtNGQyMS00YWVlLWIyMjctMmNhMjk4ZWIyNTUy",
+          "validityStartTime": "2024-08-15T00:00:00",
+          "validityEndTime": "2026-10-31T23:59:59",
+          "hasMedia": true
+        }
+      ]
+    }
+  ],
+  "title": "The Invisible Man",
+  "description": "A former thief has the ability to become invisible.",
+  "viewOptions": [
+    {
+      "playId": "s-nbcu.Nzc2MjU2ZDItODY3OC00NmJhLWIzNzQtMTAzYjIwNmFjZWU4",
+      "validityStartTime": "2024-08-15T00:00:00Z",
+      "validityEndTime": "2026-10-31T23:59:59Z",
+      "hasMedia": true
+    }
+  ],
+  "meta": {
+    "id": "704adf6b21785b8ca336835291c4c67a",
+    "mediaType": "series",
+    "source": "roku",
+    "href": "https://content.sr.roku.com/content/v1/roku-trc/704adf6b21785b8ca336835291c4c67a",
+    "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/704adf6b21785b8ca336835291c4c67a",
+    "sid": "704adf6b21785b8ca336835291c4c67a"
+  },
+  "adminInclude": {},
+  "trackerOverrides": {
+    "item_server_data": "viewOptions=||nbcu|Free||Y"
+  }
+}

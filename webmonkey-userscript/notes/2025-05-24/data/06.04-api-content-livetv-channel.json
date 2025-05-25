@@ -1,0 +1,25 @@
+{
+  "type": "livefeed",
+  "title": "Murder She Wrote",
+  "description": "Join mystery writer Jessica Fletcher (played by legend Angela Lansbury) as she solves crimes in this Emmy®-winning drama.",
+  "viewOptions": [
+    {
+      "playId": "s-nbcu.bmJjdV9tdXJkZXJfc2hlX3dyb3Rl",
+      "validityStartTime": "0000-01-01T00:00:00.000Z",
+      "validityEndTime": "9999-01-01T00:00:00.000Z",
+      "hasMedia": true
+    }
+  ],
+  "meta": {
+    "id": "56b8909fc7e75f2fabd2abc22a256020",
+    "mediaType": "livefeed",
+    "source": "roku",
+    "href": "https://content.sr.roku.com/content/v1/roku-trc/56b8909fc7e75f2fabd2abc22a256020",
+    "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/56b8909fc7e75f2fabd2abc22a256020",
+    "sid": "56b8909fc7e75f2fabd2abc22a256020"
+  },
+  "adminInclude": {},
+  "trackerOverrides": {
+    "item_server_data": "pip=1&viewOptions=||nbcu|Free||Y"
+  }
+}

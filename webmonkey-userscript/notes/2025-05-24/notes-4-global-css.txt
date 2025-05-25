@@ -1,0 +1,14 @@
+--------------------------------------------------------------------------------
+
+remove modal popup to "create free account" when site is loaded without any site cookies:
+
+html.modal-default {
+  overflow: auto !important;
+}
+
+div.roku-modal-overlay,
+div.roku-modal[role="dialog"] {
+  display: none !important;
+}
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+-------------------------------------------------------------------------------- film:
+
+https://therokuchannel.roku.com/details/19ca22e0f1855f069489c3a477283ea0/men-in-black
+https://therokuchannel.roku.com/watch/19ca22e0f1855f069489c3a477283ea0
+
+--------------------------------------------------------------------------------
+
+test #06.05:
+============
+
+URL to open in browser:
+  https://therokuchannel.roku.com/
+
+run in JS console:
+  {
+    const film_id = '19ca22e0f1855f069489c3a477283ea0'
+    const fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${film_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/06.05-api-content-film.json
+
+--------------------------------------------------------------------------------
+
+test #07.02:
+============
+
+URL to open in browser:
+  https://therokuchannel.roku.com/
+
+run in JS console:
+  {
+    const api_url = 'https://therokuchannel.roku.com/api/v3/playback'
+    const film_id = '19ca22e0f1855f069489c3a477283ea0'
+    const play_id = 's-sony.N2NjZjI1ZjUtNjY5OS00ZTllLThhN2QtMmI5ZjkwYjdkMDQ1'
+    const headers = {
+      'content-type': 'application/json',
+      'csrf-token': window.__Roku_App_Initial_Values.resource.csrf
+    }
+    const post_data = {"rokuId":film_id,"playId":play_id,"mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}
+
+    fetch(api_url, {method: 'POST', mode: 'cors', credentials: 'include', cache: 'no-store', headers, body: JSON.stringify(post_data)})
+    .then(res => res.text())
+    .then(console.log)
+  }
+
+output:
+  ./data/07.02-api-playback-film.json
+
+notes:
+* in terms of using the API to obtain video and DRM data,
+  there's absolutely no difference between an episide in a series and a film
+
+--------------------------------------------------------------------------------

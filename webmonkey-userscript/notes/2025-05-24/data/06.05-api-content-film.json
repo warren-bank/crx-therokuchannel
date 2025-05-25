@@ -1,0 +1,26 @@
+{
+  "type": "movie",
+  "runTimeSeconds": 5880,
+  "title": "Men in Black",
+  "description": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+  "viewOptions": [
+    {
+      "playId": "s-sony.N2NjZjI1ZjUtNjY5OS00ZTllLThhN2QtMmI5ZjkwYjdkMDQ1",
+      "validityStartTime": "2025-05-01T00:00:00",
+      "validityEndTime": "2025-05-31T23:59:59",
+      "hasMedia": true
+    }
+  ],
+  "meta": {
+    "id": "19ca22e0f1855f069489c3a477283ea0",
+    "mediaType": "movie",
+    "source": "roku",
+    "href": "https://content.sr.roku.com/content/v1/roku-trc/19ca22e0f1855f069489c3a477283ea0",
+    "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/19ca22e0f1855f069489c3a477283ea0",
+    "sid": "19ca22e0f1855f069489c3a477283ea0"
+  },
+  "adminInclude": {},
+  "trackerOverrides": {
+    "item_server_data": "viewOptions=||sony|Free||Y"
+  }
+}

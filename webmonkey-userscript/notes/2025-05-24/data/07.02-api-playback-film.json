@@ -1,0 +1,75 @@
+{
+  "url": "https://vod-playlist.sr.roku.com/1.mpd?origin=https%3A%2F%2Fvod.delivery.roku.com%2F8266cbb2764d4ab882aaa47df569221b%2F751f99c7749f48c79354f8b210607235%2Fa5aeccb5cfd94384b631a7dff3c90e2f%2Findex.mpd%3Faws.manifestfilter%3Daudio_codec%3AAACL%2CAACH%3Baudio_language%3Aen%2Ceng%3Bsubtitle_language%3Aunused&ovpFilter=",
+  "drm": {
+    "widevine": {
+      "licenseServer": "https://wv-license.sr.roku.com/license/v2/license/wv?token=Lc1JD_h7lNXJJ6dYr_GuQx6DVNxUyrog3qUUhSajEZoAMTr15aMl_RaIQq0GaEwtvLeWM5eBZ8BksH0jq2TLnvKbJQeYRI8bZCMSMBaBUkKM9HrY2G-mfm3sHQK2IpFPkSR9b2q_FOBKVhOflveTP4FpukthSeORoNivTERvsZ6gtWeBZTo_y5use0NY2nLgWaMB5DEWq9MWmleBfZVUwllZsxHq1JlioZ5GC5wNDXyab-g9aBahiM9bJwRy--6i7qpW6kSt8ReXRCHkVSHINTq2tF0lN-EQ9wO9zZKWN7er6GFU0YrbvR4letkYNuOBZUH__Gk88CiJK1io4EtA&traceId=e11e82350ea93b4d2e787121b6ec9d4f&ExpressPlayToken=none"
+    }
+  },
+  "mediaFormat": "mpeg-dash",
+  "adPolicy": {
+    "id": "TRC-StandaloneApp-Mobile-Web-Policy-tam",
+    "sizzle": {
+      "rokuExclusiveAdUrl": "https://ravm.tv/ads?version=1.0&inv_type=rr&sz=1920x1080&ssai_req=0&ip=OTT_IP&coppa=0&min_ad_duration=0&max_ad_duration=92000&is_raf=1&is_roku=1&rdid=ROKU_ADS_TRACKING_ID&ottid=OTT_ADS_TRACKING_ID&is_lat=1&is_roku_lat=1&idtype=OTT_ID_TYPE&correlator=OTT_ADS_TIMESTAMP&scor=OTT_ADS_TIMESTAMP&pod_min=0&pod_max=92000&pod_ads=1&pod=POD_NUM&ppos=POD_POSITION&ad_vertical=OTT_AD_VERTICAL&ad_roll=AD_ROLL&genre=ROKU_ADS_CONTENT_GENRE&length=5882&device=OTT_DEVICE_MODEL&ua=OTT_USER_AGENT&ai=ROKU_ADS_APP_ID&channel_id=ROKU_CHANNEL_ID&ott_app_id=OTT_ADS_APP_ID&roku_cust_param=device_lang%3DROKU_ADS_LOCALE%26pageid%3DROKU_PAGE_ID%26unlocked%3D0%26channelStore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm2&platform=ROKU_ADS_PLATFORM_TYPE&studio_id=sony&season_id=ROKU_ADS_SEASON_ID&content_rating=ROKU_ADS_CONTENT_RATING&content_type=ROKU_ADS_CONTENT_TYPE&iab_content_cat=652%2C325%2C646&tag_type=VAST&rtid=fe7_vExh15MIa70dOoRknMJhTm6B2sWM6GZYjhGMHfg&is_pod=0&givn=ROKU_ADS_GOOGLE_GIVN&tamRequestId=51c85b8e-70da-5af0-8f74-b577d1c1ca84&tamPolicyId=39"
+    },
+    "midRoll": {
+      "rokuSharedAdUrl": "https://ravm.tv/ads?version=1.0&inv_type=sb&sz=1920x1080&ssai_req=0&ip=OTT_IP&coppa=0&min_ad_duration=0&max_ad_duration=90000&is_raf=1&is_roku=1&rdid=ROKU_ADS_TRACKING_ID&ottid=OTT_ADS_TRACKING_ID&is_lat=1&is_roku_lat=1&idtype=OTT_ID_TYPE&correlator=OTT_ADS_TIMESTAMP&scor=OTT_ADS_TIMESTAMP&pod_min=0&pod_max=60000&pod_ads=2&pod=POD_NUM&ppos=POD_POSITION&ad_vertical=OTT_AD_VERTICAL&ad_roll=AD_ROLL&genre=ROKU_ADS_CONTENT_GENRE&length=5882&device=OTT_DEVICE_MODEL&ua=OTT_USER_AGENT&ai=sony&channel_id=ROKU_CHANNEL_ID&ott_app_id=OTT_ADS_APP_ID&roku_cust_param=device_lang%3DROKU_ADS_LOCALE%26unlocked%3D0%26pageid%3DROKU_PAGE_ID%26channelStore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm2&platform=ROKU_ADS_PLATFORM_TYPE&studio_id=sony&season_id=ROKU_ADS_SEASON_ID&content_rating=ROKU_ADS_CONTENT_RATING&content_type=ROKU_ADS_CONTENT_TYPE&iab_content_cat=652%2C325%2C646&tag_type=VAST&rtid=mTZDXNB4deEK7dK56smvOlHHYoQZI0sbznUVBImoMc8&is_pod=0&givn=ROKU_ADS_GOOGLE_GIVN&pod1a=PROG_POD1",
+      "rokuExclusiveAdUrl": "https://ravm.tv/ads?version=1.0&inv_type=sb&sz=1920x1080&ssai_req=0&ip=OTT_IP&coppa=0&min_ad_duration=0&max_ad_duration=90000&is_raf=1&is_roku=1&rdid=ROKU_ADS_TRACKING_ID&ottid=OTT_ADS_TRACKING_ID&is_lat=1&is_roku_lat=1&idtype=OTT_ID_TYPE&correlator=OTT_ADS_TIMESTAMP&scor=OTT_ADS_TIMESTAMP&pod_min=0&pod_max=60000&pod_ads=2&pod=POD_NUM&ppos=POD_POSITION&ad_vertical=OTT_AD_VERTICAL&ad_roll=AD_ROLL&genre=ROKU_ADS_CONTENT_GENRE&length=5882&device=OTT_DEVICE_MODEL&ua=OTT_USER_AGENT&ai=sony&channel_id=ROKU_CHANNEL_ID&ott_app_id=OTT_ADS_APP_ID&roku_cust_param=device_lang%3DROKU_ADS_LOCALE%26unlocked%3D0%26pageid%3DROKU_PAGE_ID%26channelStore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm2&platform=ROKU_ADS_PLATFORM_TYPE&studio_id=sony&season_id=ROKU_ADS_SEASON_ID&content_rating=ROKU_ADS_CONTENT_RATING&content_type=ROKU_ADS_CONTENT_TYPE&iab_content_cat=652%2C325%2C646&tag_type=VAST&rtid=mTZDXNB4deEK7dK56smvOlHHYoQZI0sbznUVBImoMc8&is_pod=0&family_directed=OTT_CONTENT_FAMILY_DIRECTED&givn=ROKU_ADS_GOOGLE_GIVN&pod1a=PROG_POD1&tamRequestId=51c85b8e-70da-5af0-8f74-b577d1c1ca84&tamPolicyId=39",
+      "postInstallAdFreeSeconds": 600,
+      "minimumAdFreeContentSeconds": 700
+    },
+    "preRoll": {
+      "enableOnAdBreaks": true,
+      "showOnNewSession": true,
+      "postInstallAdFreeSeconds": 900,
+      "showOnFirstEpisodeOfSeries": true,
+      "minimumAdFreeContentSeconds": 600
+    },
+    "adPolicyName": "TRC-StandaloneApp-Mobile-Web-Policy-tam",
+    "kidsDirected": false,
+    "rokuNielsenId": "P2871BBFF-1A28-44AA-AF68-C7DE4B148C32",
+    "adViewRequiredPercent": 0.75,
+    "adUpperBitrateLimitKbps": 6000,
+    "adPrefetchThresholdInSec": 60,
+    "developerAdInventorySharePercent": 0.01,
+    "adBreaks": ["00:33:33.353", "00:45:18.388", "00:56:07.454", "01:06:24.701", "01:16:53.034", "01:27:25.339"]
+  },
+  "playbackMedia": {
+    "videos": [{
+      "url": "https://vod-playlist.sr.roku.com/1.mpd?origin=https%3A%2F%2Fvod.delivery.roku.com%2F8266cbb2764d4ab882aaa47df569221b%2F751f99c7749f48c79354f8b210607235%2Fa5aeccb5cfd94384b631a7dff3c90e2f%2Findex.mpd%3Faws.manifestfilter%3Daudio_codec%3AAACL%2CAACH%3Baudio_language%3Aen%2Ceng%3Bsubtitle_language%3Aunused&ovpFilter=",
+      "streamFormat": "dash",
+      "quality": "hd",
+      "drmParams": {
+        "keySystem": "Widevine",
+        "licenseServerURL": "https://wv-license.sr.roku.com/license/v2/license/wv?token=Lc1JD_h7lNXJJ6dYr_GuQx6DVNxUyrog3qUUhSajEZoAMTr15aMl_RaIQq0GaEwtvLeWM5eBZ8BksH0jq2TLnvKbJQeYRI8bZCMSMBaBUkKM9HrY2G-mfm3sHQK2IpFPkSR9b2q_FOBKVhOflveTP4FpukthSeORoNivTERvsZ6gtWeBZTo_y5use0NY2nLgWaMB5DEWq9MWmleBfZVUwllZsxHq1JlioZ5GC5wNDXyab-g9aBahiM9bJwRy--6i7qpW6kSt8ReXRCHkVSHINTq2tF0lN-EQ9wO9zZKWN7er6GFU0YrbvR4letkYNuOBZUH__Gk88CiJK1io4EtA&traceId=e11e82350ea93b4d2e787121b6ec9d4f&ExpressPlayToken=none"
+      }
+    }],
+    "trickPlayFiles": [{
+      "url": "https://static-delivery.sr.roku.com/7ccf25f5-6699-4e9e-8a7d-2b9f90b7d045/images/7ccf25f5-6699-4e9e-8a7d-2b9f90b7d045-hd.bif",
+      "quality": "hd"
+    }, {
+      "url": "https://static-delivery.sr.roku.com/7ccf25f5-6699-4e9e-8a7d-2b9f90b7d045/images/7ccf25f5-6699-4e9e-8a7d-2b9f90b7d045-fhd.bif",
+      "quality": "fhd"
+    }, {
+      "url": "https://static-delivery.sr.roku.com/7ccf25f5-6699-4e9e-8a7d-2b9f90b7d045/images/7ccf25f5-6699-4e9e-8a7d-2b9f90b7d045-sd.bif",
+      "quality": "sd"
+    }],
+    "duration": 5882,
+    "captions": [{
+      "url": "https://static-delivery.sr.roku.com/7ccf25f5-6699-4e9e-8a7d-2b9f90b7d045/captions/SPE_Meninblack_958169_FE_EN_1920x1080_Sony_20250510T051827_cc_en.vtt",
+      "language": "en",
+      "captionType": "CLOSED_CAPTION"
+    }],
+    "adBreaks": ["00:12:46.812", "00:23:28.158", "00:33:33.353", "00:45:18.388", "00:56:07.454", "01:06:24.701", "01:16:53.034", "01:27:25.339"],
+    "creditCuePoints": [{
+      "type": "credit",
+      "creditType": "end",
+      "start": 5454989,
+      "end": 5882085,
+      "skippable": true,
+      "countdownInSeconds": 7
+    }],
+    "validityStartTime": "2025-05-01T00:00:00",
+    "validityEndTime": "2025-05-31T23:59:59"
+  },
+  "playbackContent": "trc"
+}

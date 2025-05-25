@@ -1,0 +1,68 @@
+--------------------------------------------------------------------------------
+
+https://therokuchannel.roku.com/browse/w.xWvaD8v8B1HPbvLeY9pWCq4VZGGwoktG5NA1w1WgCVYNBL8D2M/live-tv
+  browse: live tv channels
+
+https://therokuchannel.roku.com/watch/56b8909fc7e75f2fabd2abc22a256020
+  live tv channel: "Murder, She Wrote"
+
+-------------------------------------------------------------------------------- live tv channel:
+
+test #06.04:
+============
+
+URL (ie: livetv channel) to open in browser:
+  https://therokuchannel.roku.com/watch/56b8909fc7e75f2fabd2abc22a256020
+
+run in JS console:
+  {
+    const channel_id = '56b8909fc7e75f2fabd2abc22a256020'
+    const fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${channel_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/06.04-api-content-livetv-channel.json
+
+--------------------------------------------------------------------------------
+
+test #07.01:
+============
+
+URL (ie: livetv channel) to open in browser:
+  https://therokuchannel.roku.com/watch/56b8909fc7e75f2fabd2abc22a256020
+
+run in JS console:
+  {
+    const api_url    = 'https://therokuchannel.roku.com/api/v3/playback'
+    const channel_id = '56b8909fc7e75f2fabd2abc22a256020'
+    const play_id    = 's-nbcu.bmJjdV9tdXJkZXJfc2hlX3dyb3Rl'
+    const headers    = {
+      'content-type': 'application/json',
+      'csrf-token': window.__Roku_App_Initial_Values.resource.csrf
+    }
+    const post_data = {"rokuId":channel_id,"playId":play_id,"mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}
+
+    fetch(api_url, {method: 'POST', mode: 'cors', credentials: 'include', cache: 'no-store', headers, body: JSON.stringify(post_data)})
+    .then(res => res.text())
+    .then(console.log)
+  }
+
+output:
+  ./data/07.01-api-playback-livetv-channel.json
+
+notes:
+* in terms of using the API to obtain video and DRM data,
+  there's absolutely no difference between an episide in a series and a live tv channel
+
+--------------------------------------------------------------------------------

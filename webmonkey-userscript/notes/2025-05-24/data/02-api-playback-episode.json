@@ -1,0 +1,82 @@
+{
+  "url": "https://vod-playlist.sr.roku.com/1.mpd?origin=https%3A%2F%2Fvod.delivery.roku.com%2F326befbee602470fb0747c80a3906f4d%2Fb5558de986f747e980a21f48353ee232%2F450a776494b34a17936e4ca497d297e5%2Findex.mpd%3Faws.manifestfilter%3Daudio_codec%3AAACL%2CAACH%3Bsubtitle_language%3Aunused&ovpFilter=",
+  "drm": {
+    "widevine": {
+      "licenseServer": "https://wv-license.sr.roku.com/license/v2/license/wv?token=Lc1MD619yoXJc6df-vCsQx6DV45UkOh02KUT0XGgS59UMTjx5fcl_UCNRv4Kak4r6OTGPpbRZZNg5359_mLLmqicdwCYQY1KZCMSCWCDUkKM9HrY2G-mfm3sbQLFUpZNkSQOGWDPZJBOI2Lv4vfmOIMbyEsTTuftpt-vTERvrJOtuWeWLSI53MO0MENfwnLhd6hf5iEWq9MVpFGBfZZEwyxdswXQyNth-bADC6E8V2jsa-g9aBahiM9bJwRy-ea98bBc5AO3vwaPQzrwV27SbS__9hB1JqwUuBTjjsjTM6Gw9GYGjZnZ4Shf0SpfejTBIevylRA0oF1xrGgVr5-iyy4=&traceId=34564013d6142267624fb725817d9a67&ExpressPlayToken=none"
+    }
+  },
+  "mediaFormat": "mpeg-dash",
+  "adPolicy": {
+    "id": "TRC-StandaloneApp-Mobile-Web-Policy-tam",
+    "sizzle": {
+      "rokuExclusiveAdUrl": "https://ravm.tv/ads?version=1.0&inv_type=rr&sz=1920x1080&ssai_req=0&ip=OTT_IP&coppa=0&min_ad_duration=0&max_ad_duration=92000&is_raf=1&is_roku=1&rdid=ROKU_ADS_TRACKING_ID&ottid=OTT_ADS_TRACKING_ID&is_lat=1&is_roku_lat=1&idtype=OTT_ID_TYPE&correlator=OTT_ADS_TIMESTAMP&scor=OTT_ADS_TIMESTAMP&pod_min=0&pod_max=92000&pod_ads=1&pod=POD_NUM&ppos=POD_POSITION&ad_vertical=OTT_AD_VERTICAL&ad_roll=AD_ROLL&genre=ROKU_ADS_CONTENT_GENRE&length=5186&device=OTT_DEVICE_MODEL&ua=OTT_USER_AGENT&ai=ROKU_ADS_APP_ID&channel_id=ROKU_CHANNEL_ID&ott_app_id=OTT_ADS_APP_ID&roku_cust_param=device_lang%3DROKU_ADS_LOCALE%26pageid%3DROKU_PAGE_ID%26unlocked%3D0%26channelStore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm1&platform=ROKU_ADS_PLATFORM_TYPE&studio_id=nbcu&season_id=ROKU_ADS_SEASON_ID&content_rating=ROKU_ADS_CONTENT_RATING&content_type=ROKU_ADS_CONTENT_TYPE&iab_content_cat=325%2C646%2C647&tag_type=VAST&rtid=fe7_vExh15MIa70dOoRknMJhTm6B2sWM6GZYjhGMHfg&is_pod=0&givn=ROKU_ADS_GOOGLE_GIVN&tamRequestId=528b6ced-21ff-5beb-8d03-fcdc57859f37&tamPolicyId=39"
+    },
+    "midRoll": {
+      "rokuSharedAdUrl": "https://ravm.tv/ads?version=1.0&inv_type=sb&sz=1920x1080&ssai_req=0&ip=OTT_IP&coppa=0&min_ad_duration=0&max_ad_duration=90000&is_raf=1&is_roku=1&rdid=ROKU_ADS_TRACKING_ID&ottid=OTT_ADS_TRACKING_ID&is_lat=1&is_roku_lat=1&idtype=OTT_ID_TYPE&correlator=OTT_ADS_TIMESTAMP&scor=OTT_ADS_TIMESTAMP&pod_min=0&pod_max=120000&pod_ads=5&pod=POD_NUM&ppos=POD_POSITION&ad_vertical=OTT_AD_VERTICAL&ad_roll=AD_ROLL&genre=ROKU_ADS_CONTENT_GENRE&length=5186&device=OTT_DEVICE_MODEL&ua=OTT_USER_AGENT&ai=nbcu&channel_id=ROKU_CHANNEL_ID&ott_app_id=OTT_ADS_APP_ID&roku_cust_param=device_lang%3DROKU_ADS_LOCALE%26unlocked%3D0%26pageid%3DROKU_PAGE_ID%26channelStore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm1&platform=ROKU_ADS_PLATFORM_TYPE&studio_id=nbcu&season_id=ROKU_ADS_SEASON_ID&content_rating=ROKU_ADS_CONTENT_RATING&content_type=ROKU_ADS_CONTENT_TYPE&iab_content_cat=325%2C646%2C647&tag_type=VAST&rtid=mTZDXNB4deEK7dK56smvOlHHYoQZI0sbznUVBImoMc8&is_pod=0&givn=ROKU_ADS_GOOGLE_GIVN&pod1a=PROG_POD1",
+      "rokuExclusiveAdUrl": "https://ravm.tv/ads?version=1.0&inv_type=sb&sz=1920x1080&ssai_req=0&ip=OTT_IP&coppa=0&min_ad_duration=0&max_ad_duration=90000&is_raf=1&is_roku=1&rdid=ROKU_ADS_TRACKING_ID&ottid=OTT_ADS_TRACKING_ID&is_lat=1&is_roku_lat=1&idtype=OTT_ID_TYPE&correlator=OTT_ADS_TIMESTAMP&scor=OTT_ADS_TIMESTAMP&pod_min=0&pod_max=120000&pod_ads=5&pod=POD_NUM&ppos=POD_POSITION&ad_vertical=OTT_AD_VERTICAL&ad_roll=AD_ROLL&genre=ROKU_ADS_CONTENT_GENRE&length=5186&device=OTT_DEVICE_MODEL&ua=OTT_USER_AGENT&ai=nbcu&channel_id=ROKU_CHANNEL_ID&ott_app_id=OTT_ADS_APP_ID&roku_cust_param=device_lang%3DROKU_ADS_LOCALE%26unlocked%3D0%26pageid%3DROKU_PAGE_ID%26channelStore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm1&platform=ROKU_ADS_PLATFORM_TYPE&studio_id=nbcu&season_id=ROKU_ADS_SEASON_ID&content_rating=ROKU_ADS_CONTENT_RATING&content_type=ROKU_ADS_CONTENT_TYPE&iab_content_cat=325%2C646%2C647&tag_type=VAST&rtid=mTZDXNB4deEK7dK56smvOlHHYoQZI0sbznUVBImoMc8&is_pod=0&family_directed=OTT_CONTENT_FAMILY_DIRECTED&givn=ROKU_ADS_GOOGLE_GIVN&pod1a=PROG_POD1&tamRequestId=528b6ced-21ff-5beb-8d03-fcdc57859f37&tamPolicyId=39",
+      "postInstallAdFreeSeconds": 600,
+      "minimumAdFreeContentSeconds": 600
+    },
+    "preRoll": {
+      "enableOnAdBreaks": true,
+      "showOnNewSession": true,
+      "postInstallAdFreeSeconds": 900,
+      "showOnFirstEpisodeOfSeries": true,
+      "minimumAdFreeContentSeconds": 600
+    },
+    "adPolicyName": "TRC-StandaloneApp-Mobile-Web-Policy-tam",
+    "kidsDirected": false,
+    "rokuNielsenId": "P2871BBFF-1A28-44AA-AF68-C7DE4B148C32",
+    "adViewRequiredPercent": 0.75,
+    "adUpperBitrateLimitKbps": 6000,
+    "adPrefetchThresholdInSec": 60,
+    "developerAdInventorySharePercent": 0.01,
+    "adBreaks": ["00:12:34.240", "00:19:59.440", "00:26:52.600", "00:33:39.600", "00:48:31.520", "01:01:17.280", "01:09:40.720", "01:18:05.320"]
+  },
+  "playbackMedia": {
+    "videos": [{
+      "url": "https://vod-playlist.sr.roku.com/1.mpd?origin=https%3A%2F%2Fvod.delivery.roku.com%2F326befbee602470fb0747c80a3906f4d%2Fb5558de986f747e980a21f48353ee232%2F450a776494b34a17936e4ca497d297e5%2Findex.mpd%3Faws.manifestfilter%3Daudio_codec%3AAACL%2CAACH%3Bsubtitle_language%3Aunused&ovpFilter=",
+      "streamFormat": "dash",
+      "quality": "hd",
+      "drmParams": {
+        "keySystem": "Widevine",
+        "licenseServerURL": "https://wv-license.sr.roku.com/license/v2/license/wv?token=Lc1MD619yoXJc6df-vCsQx6DV45UkOh02KUT0XGgS59UMTjx5fcl_UCNRv4Kak4r6OTGPpbRZZNg5359_mLLmqicdwCYQY1KZCMSCWCDUkKM9HrY2G-mfm3sbQLFUpZNkSQOGWDPZJBOI2Lv4vfmOIMbyEsTTuftpt-vTERvrJOtuWeWLSI53MO0MENfwnLhd6hf5iEWq9MVpFGBfZZEwyxdswXQyNth-bADC6E8V2jsa-g9aBahiM9bJwRy-ea98bBc5AO3vwaPQzrwV27SbS__9hB1JqwUuBTjjsjTM6Gw9GYGjZnZ4Shf0SpfejTBIevylRA0oF1xrGgVr5-iyy4=&traceId=34564013d6142267624fb725817d9a67&ExpressPlayToken=none"
+      }
+    }],
+    "trickPlayFiles": [{
+      "url": "https://static-delivery.sr.roku.com/c5e3d3fc-84d0-4edc-918e-ae0ca6ae5ce5/images/c5e3d3fc-84d0-4edc-918e-ae0ca6ae5ce5-hd.bif",
+      "quality": "hd"
+    }, {
+      "url": "https://static-delivery.sr.roku.com/c5e3d3fc-84d0-4edc-918e-ae0ca6ae5ce5/images/c5e3d3fc-84d0-4edc-918e-ae0ca6ae5ce5-sd.bif",
+      "quality": "sd"
+    }, {
+      "url": "https://static-delivery.sr.roku.com/c5e3d3fc-84d0-4edc-918e-ae0ca6ae5ce5/images/c5e3d3fc-84d0-4edc-918e-ae0ca6ae5ce5-fhd.bif",
+      "quality": "fhd"
+    }],
+    "duration": 5186,
+    "captions": [{
+      "url": "https://static-delivery.sr.roku.com/c5e3d3fc-84d0-4edc-918e-ae0ca6ae5ce5/captions/TheInvisibleMan_TM103_375536_ENG_NBCU_20240723T183342_cc_en-us.vtt",
+      "language": "en-US",
+      "captionType": "CLOSED_CAPTION"
+    }],
+    "adBreaks": ["00:12:34.240", "00:19:59.440", "00:26:52.600", "00:33:39.600", "00:48:31.520", "01:01:17.280", "01:09:40.720", "01:18:05.320"],
+    "creditCuePoints": [{
+      "type": "credit",
+      "creditType": "end",
+      "start": 5138000,
+      "end": 5186000,
+      "skippable": true,
+      "countdownInSeconds": 7
+    }, {
+      "type": "credit",
+      "creditType": "intro",
+      "start": 1000,
+      "end": 126000,
+      "skippable": true,
+      "countdownInSeconds": 10
+    }],
+    "validityStartTime": "2024-08-15T00:00:00",
+    "validityEndTime": "2026-10-31T23:59:59"
+  },
+  "playbackContent": "trc"
+}

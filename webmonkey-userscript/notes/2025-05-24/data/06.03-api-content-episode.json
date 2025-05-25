@@ -1,0 +1,28 @@
+{
+  "type": "episode",
+  "episodeNumber": "1",
+  "seasonNumber": "1",
+  "runTimeSeconds": 5160,
+  "title": "Pilot",
+  "description": "A small-time thief (Vincent Ventresca) must work for an underfunded governmental agency or get solitary confinement.",
+  "viewOptions": [
+    {
+      "playId": "s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1",
+      "validityStartTime": "2024-08-15T00:00:00",
+      "validityEndTime": "2026-10-31T23:59:59",
+      "hasMedia": true
+    }
+  ],
+  "meta": {
+    "id": "1370a003b34f5caeadb328c72336ec9e",
+    "mediaType": "episode",
+    "source": "roku",
+    "href": "https://content.sr.roku.com/content/v1/roku-trc/1370a003b34f5caeadb328c72336ec9e",
+    "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/1370a003b34f5caeadb328c72336ec9e",
+    "sid": "1370a003b34f5caeadb328c72336ec9e"
+  },
+  "adminInclude": {},
+  "trackerOverrides": {
+    "item_server_data": "viewOptions=||nbcu|Free||Y"
+  }
+}

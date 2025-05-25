@@ -1,0 +1,495 @@
+--------------------------------------------------------------------------------
+
+https://therokuchannel.roku.com/
+https://therokuchannel.roku.com/search/The%20Invisible%20Man
+
+https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+  series
+
+https://therokuchannel.roku.com/details/1370a003b34f5caeadb328c72336ec9e/the-invisible-man-s1-e1-pilot
+  episode in series
+
+-------------------------------------------------------------------------------- series:
+
+view-source:https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+notes:
+======
+* no obvious inline scripts or JSON data
+
+--------------------------------------------------------------------------------
+
+https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+===========
+network tab
+===========
+
+request:
+========
+
+curl 'https://therokuchannel.roku.com/api/v2/homescreen/content/https%3A%2F%2Fcontent.sr.roku.com%2Fcontent%2Fv1%2Froku-trc%2F704adf6b21785b8ca336835291c4c67a%3Fexpand%3Dcredits%252CviewOptions%252CcategoryObjects%252CviewOptions.providerDetails%252Cseries%252Cseason%252Cseason.episodes%252Cnext%252Cnext.series%252Cepisodes%252Cseasons%255B0%255D%252Cseasons%255B0%255D.episodes%26include%3Dtype%252Ctitle%252CimageMap.detailPoster%252CimageMap.detailBackground%252Cbobs.detailScreen%252CcategoryObjects%252CrunTimeSeconds%252CcastAndCrew%252Csavable%252CstationDma%252CkidsDirected%252CreleaseDate%252CreleaseYear%252Cdescription%252Cdescriptions%252Cindicators%252Cgenres%252Ccredits.birthDate%252Ccredits.meta%252Ccredits.order%252Ccredits.name%252Ccredits.role%252Ccredits.personId%252Ccredits.images%252CparentalRatings%252CreverseChronological%252CcontentRatingClass%252ClanguageDialogBody%252CdetailScreenOptions%252CviewOptions%252CepisodeNumber%252CseasonNumber%252CsportInfo%252CeventState%252Cnext.series.title%252Cseries.title%252Cseason%252Cseasons.title%252Cseasons.seasonNumber%252Cseasons.description%252Cseasons.descriptions%252Cseasons.releaseYear%252Cseasons.castAndCrew%252Cseasons.credits.birthDate%252Cseasons.credits.meta%252Cseasons.credits.order%252Cseasons.credits.name%252Cseasons.credits.role%252Cseasons.credits.personId%252Cseasons.credits.images%252Cseasons.imageMap.detailBackground%252Cseasons.episodes.title%252Cseasons.episodes.description%252Cseasons.episodes.descriptions.40%252Cseasons.episodes.descriptions.60%252Cseasons.episodes.episodeNumber%252Cseasons.episodes.seasonNumber%252Cseasons.episodes.images%252Cseasons.episodes.imageMap.grid%252Cseasons.episodes.indicators%252Cseasons.episodes.releaseDate%252Cseasons.episodes.viewOptions%252Cepisodes.episodeNumber%252Cepisodes.seasonNumber%252Cepisodes.viewOptions%252CviewOptions.disabled%252CviewOptions.providerId%252CviewOptions.providerName%252CviewOptions.providerProductId%252CviewOptions.license%252CviewOptions.media%252CviewOptions.channelId%252CviewOptions.adsContentId%252CviewOptions.adsProviderId%252CviewOptions.playId%252CviewOptions.isUnlocked%252CviewOptions.bobs.detailScreen%252CviewOptions.mvpdLivefeedId%252Cseason.episodes.title%252Cseason.episodes.description%252Cseason.episodes.descriptions.40%252Cseason.episodes.descriptions.60%252Cseason.episodes.episodeNumber%252Cseason.episodes.seasonNumber%252Cseason.episodes.images%252Cseason.episodes.imageMap.grid%252Cseason.episodes.indicators%252Cseason.episodes.releaseDate%252Cseason.episodes.viewOptions%26filter%3DcategoryObjects%253AgenreAppropriate%252520eq%252520true%252Cseasons.episodes%253A%2528not%252520empty%2528viewOptions%2529%2529%253Aall%26featureInclude%3Dbookmark%252Cwatchlist%252ClinearSchedule' \
+  --compressed \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'x-roku-reserved-session-id: 992d5cb3-0e5f-4202-a601-536d541a3739' \
+  -H 'x-roku-reserved-time-zone-offset: -07:00' \
+  -H 'x-roku-reserved-culture-code: en-US' \
+  -H 'x-roku-reserved-experiment-state: W10=' \
+  -H 'x-roku-reserved-amoeba-ids: ' \
+  -H 'x-roku-reserved-experiment-configs: e30=' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man' \
+  -H 'Cookie: _csrf=aPsCem6eQqtu_Mac1Yg5xkTo; ks_v_watch=v1744052996671s; watch.locale=j%3A%7B%22language%22%3A%22en%22%2C%22country%22%3A%22US%22%7D; ks.privacy.ccpa=j%3A%7B%22enabled%22%3Afalse%2C%22optOutSpi%22%3Afalse%7D; _usn=992d5cb3-0e5f-4202-a601-536d541a3739; _uc=12104273-687e-4114-9e75-f6a57a16a1af%3Ad03bbafb9011879f8775e9b6596ff100' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin'
+
+response:
+=========
+./data/01-api-content-series.json
+
+notes:
+======
+
+* includes a detailed list of every episode in the 1st season of the series:
+  - data.seasons[]
+  - data.seasons[i].episodes[]
+  - data.seasons[i].episodes[j].meta.id
+    * ex: "1370a003b34f5caeadb328c72336ec9e"
+  - data.seasons[i].episodes[j].seasonNumber
+  - data.seasons[i].episodes[j].episodeNumber
+  - data.seasons[i].episodes[j].title
+  - data.seasons[i].episodes[j].description
+  - data.seasons[i].episodes[j].viewOptions[]
+  - data.seasons[i].episodes[j].viewOptions[0].playId
+    * ex: "s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1"
+  - data.seasons[i].episodes[j].viewOptions[0].media.duration
+    * ex: 5186
+    * unit: seconds
+  - data.seasons[i].episodes[j].viewOptions[0].media.validityEndTime
+    * ie: available until
+  - data.seasons[i].episodes[j].viewOptions[0].media.videos[]
+  - data.seasons[i].episodes[j].viewOptions[0].media.videos[k].url
+  - data.seasons[i].episodes[j].viewOptions[0].media.videos[k].videoType
+    * ex: "DASH", "HLS"
+  - data.seasons[i].episodes[j].viewOptions[0].media.videos[k].drmAuthentication.data.pid
+    * ex: "B823FC14A431E25DCA77D6DB41CD48C1"
+  - data.seasons[i].episodes[j].viewOptions[0].media.captions[]
+  - data.seasons[i].episodes[j].viewOptions[0].media.captions[k].url
+  - data.seasons[i].episodes[j].viewOptions[0].media.captions[k].language
+    * ex: "en-US"
+
+* includes a less detailed list of every episode in every season of the series:
+  - data.episodes[]
+  - data.episodes[j].meta.id
+    * ex: "1370a003b34f5caeadb328c72336ec9e"
+  - data.episodes[j].seasonNumber
+  - data.episodes[j].episodeNumber
+  - data.episodes[j].viewOptions[]
+  - data.episodes[j].viewOptions[0].playId
+    * ex: "s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1"
+  - data.episodes[j].viewOptions[0].media.duration
+    * ex: 5186
+    * unit: seconds
+  - data.episodes[j].viewOptions[0].media.validityEndTime
+    * ie: available until
+  - data.episodes[j].viewOptions[0].media.videos[]
+  - data.episodes[j].viewOptions[0].media.videos[k].url
+  - data.episodes[j].viewOptions[0].media.videos[k].videoType
+    * ex: "DASH", "HLS"
+  - data.episodes[j].viewOptions[0].media.videos[k].drmAuthentication.data.pid
+    * ex: "B823FC14A431E25DCA77D6DB41CD48C1"
+  - data.episodes[j].viewOptions[0].media.captions[]
+  - data.episodes[j].viewOptions[0].media.captions[k].url
+  - data.episodes[j].viewOptions[0].media.captions[k].language
+    * ex: "en-US"
+* missing fields:
+  - data.episodes[j].title
+  - data.episodes[j].description
+
+* encoded URL in request path:
+    console.log(
+      decodeURIComponent('https%3A%2F%2Fcontent.sr.roku.com%2Fcontent%2Fv1%2Froku-trc%2F704adf6b21785b8ca336835291c4c67a%3Fexpand%3Dcredits%252CviewOptions%252CcategoryObjects%252CviewOptions.providerDetails%252Cseries%252Cseason%252Cseason.episodes%252Cnext%252Cnext.series%252Cepisodes%252Cseasons%255B0%255D%252Cseasons%255B0%255D.episodes%26include%3Dtype%252Ctitle%252CimageMap.detailPoster%252CimageMap.detailBackground%252Cbobs.detailScreen%252CcategoryObjects%252CrunTimeSeconds%252CcastAndCrew%252Csavable%252CstationDma%252CkidsDirected%252CreleaseDate%252CreleaseYear%252Cdescription%252Cdescriptions%252Cindicators%252Cgenres%252Ccredits.birthDate%252Ccredits.meta%252Ccredits.order%252Ccredits.name%252Ccredits.role%252Ccredits.personId%252Ccredits.images%252CparentalRatings%252CreverseChronological%252CcontentRatingClass%252ClanguageDialogBody%252CdetailScreenOptions%252CviewOptions%252CepisodeNumber%252CseasonNumber%252CsportInfo%252CeventState%252Cnext.series.title%252Cseries.title%252Cseason%252Cseasons.title%252Cseasons.seasonNumber%252Cseasons.description%252Cseasons.descriptions%252Cseasons.releaseYear%252Cseasons.castAndCrew%252Cseasons.credits.birthDate%252Cseasons.credits.meta%252Cseasons.credits.order%252Cseasons.credits.name%252Cseasons.credits.role%252Cseasons.credits.personId%252Cseasons.credits.images%252Cseasons.imageMap.detailBackground%252Cseasons.episodes.title%252Cseasons.episodes.description%252Cseasons.episodes.descriptions.40%252Cseasons.episodes.descriptions.60%252Cseasons.episodes.episodeNumber%252Cseasons.episodes.seasonNumber%252Cseasons.episodes.images%252Cseasons.episodes.imageMap.grid%252Cseasons.episodes.indicators%252Cseasons.episodes.releaseDate%252Cseasons.episodes.viewOptions%252Cepisodes.episodeNumber%252Cepisodes.seasonNumber%252Cepisodes.viewOptions%252CviewOptions.disabled%252CviewOptions.providerId%252CviewOptions.providerName%252CviewOptions.providerProductId%252CviewOptions.license%252CviewOptions.media%252CviewOptions.channelId%252CviewOptions.adsContentId%252CviewOptions.adsProviderId%252CviewOptions.playId%252CviewOptions.isUnlocked%252CviewOptions.bobs.detailScreen%252CviewOptions.mvpdLivefeedId%252Cseason.episodes.title%252Cseason.episodes.description%252Cseason.episodes.descriptions.40%252Cseason.episodes.descriptions.60%252Cseason.episodes.episodeNumber%252Cseason.episodes.seasonNumber%252Cseason.episodes.images%252Cseason.episodes.imageMap.grid%252Cseason.episodes.indicators%252Cseason.episodes.releaseDate%252Cseason.episodes.viewOptions%26filter%3DcategoryObjects%253AgenreAppropriate%252520eq%252520true%252Cseasons.episodes%253A%2528not%252520empty%2528viewOptions%2529%2529%253Aall%26featureInclude%3Dbookmark%252Cwatchlist%252ClinearSchedule')
+    )
+  output:
+    https://content.sr.roku.com/content/v1/roku-trc/704adf6b21785b8ca336835291c4c67a?expand=credits%2CviewOptions%2CcategoryObjects%2CviewOptions.providerDetails%2Cseries%2Cseason%2Cseason.episodes%2Cnext%2Cnext.series%2Cepisodes%2Cseasons%5B0%5D%2Cseasons%5B0%5D.episodes&include=type%2Ctitle%2CimageMap.detailPoster%2CimageMap.detailBackground%2Cbobs.detailScreen%2CcategoryObjects%2CrunTimeSeconds%2CcastAndCrew%2Csavable%2CstationDma%2CkidsDirected%2CreleaseDate%2CreleaseYear%2Cdescription%2Cdescriptions%2Cindicators%2Cgenres%2Ccredits.birthDate%2Ccredits.meta%2Ccredits.order%2Ccredits.name%2Ccredits.role%2Ccredits.personId%2Ccredits.images%2CparentalRatings%2CreverseChronological%2CcontentRatingClass%2ClanguageDialogBody%2CdetailScreenOptions%2CviewOptions%2CepisodeNumber%2CseasonNumber%2CsportInfo%2CeventState%2Cnext.series.title%2Cseries.title%2Cseason%2Cseasons.title%2Cseasons.seasonNumber%2Cseasons.description%2Cseasons.descriptions%2Cseasons.releaseYear%2Cseasons.castAndCrew%2Cseasons.credits.birthDate%2Cseasons.credits.meta%2Cseasons.credits.order%2Cseasons.credits.name%2Cseasons.credits.role%2Cseasons.credits.personId%2Cseasons.credits.images%2Cseasons.imageMap.detailBackground%2Cseasons.episodes.title%2Cseasons.episodes.description%2Cseasons.episodes.descriptions.40%2Cseasons.episodes.descriptions.60%2Cseasons.episodes.episodeNumber%2Cseasons.episodes.seasonNumber%2Cseasons.episodes.images%2Cseasons.episodes.imageMap.grid%2Cseasons.episodes.indicators%2Cseasons.episodes.releaseDate%2Cseasons.episodes.viewOptions%2Cepisodes.episodeNumber%2Cepisodes.seasonNumber%2Cepisodes.viewOptions%2CviewOptions.disabled%2CviewOptions.providerId%2CviewOptions.providerName%2CviewOptions.providerProductId%2CviewOptions.license%2CviewOptions.media%2CviewOptions.channelId%2CviewOptions.adsContentId%2CviewOptions.adsProviderId%2CviewOptions.playId%2CviewOptions.isUnlocked%2CviewOptions.bobs.detailScreen%2CviewOptions.mvpdLivefeedId%2Cseason.episodes.title%2Cseason.episodes.description%2Cseason.episodes.descriptions.40%2Cseason.episodes.descriptions.60%2Cseason.episodes.episodeNumber%2Cseason.episodes.seasonNumber%2Cseason.episodes.images%2Cseason.episodes.imageMap.grid%2Cseason.episodes.indicators%2Cseason.episodes.releaseDate%2Cseason.episodes.viewOptions&filter=categoryObjects%3AgenreAppropriate%2520eq%2520true%2Cseasons.episodes%3A%28not%2520empty%28viewOptions%29%29%3Aall&featureInclude=bookmark%2Cwatchlist%2ClinearSchedule
+* encoded querystring parameter: expand=
+    console.log(
+      decodeURIComponent('credits%2CviewOptions%2CcategoryObjects%2CviewOptions.providerDetails%2Cseries%2Cseason%2Cseason.episodes%2Cnext%2Cnext.series%2Cepisodes%2Cseasons%5B0%5D%2Cseasons%5B0%5D.episodes&include=type%2Ctitle%2CimageMap.detailPoster%2CimageMap.detailBackground%2Cbobs.detailScreen%2CcategoryObjects%2CrunTimeSeconds%2CcastAndCrew%2Csavable%2CstationDma%2CkidsDirected%2CreleaseDate%2CreleaseYear%2Cdescription%2Cdescriptions%2Cindicators%2Cgenres%2Ccredits.birthDate%2Ccredits.meta%2Ccredits.order%2Ccredits.name%2Ccredits.role%2Ccredits.personId%2Ccredits.images%2CparentalRatings%2CreverseChronological%2CcontentRatingClass%2ClanguageDialogBody%2CdetailScreenOptions%2CviewOptions%2CepisodeNumber%2CseasonNumber%2CsportInfo%2CeventState%2Cnext.series.title%2Cseries.title%2Cseason%2Cseasons.title%2Cseasons.seasonNumber%2Cseasons.description%2Cseasons.descriptions%2Cseasons.releaseYear%2Cseasons.castAndCrew%2Cseasons.credits.birthDate%2Cseasons.credits.meta%2Cseasons.credits.order%2Cseasons.credits.name%2Cseasons.credits.role%2Cseasons.credits.personId%2Cseasons.credits.images%2Cseasons.imageMap.detailBackground%2Cseasons.episodes.title%2Cseasons.episodes.description%2Cseasons.episodes.descriptions.40%2Cseasons.episodes.descriptions.60%2Cseasons.episodes.episodeNumber%2Cseasons.episodes.seasonNumber%2Cseasons.episodes.images%2Cseasons.episodes.imageMap.grid%2Cseasons.episodes.indicators%2Cseasons.episodes.releaseDate%2Cseasons.episodes.viewOptions%2Cepisodes.episodeNumber%2Cepisodes.seasonNumber%2Cepisodes.viewOptions%2CviewOptions.disabled%2CviewOptions.providerId%2CviewOptions.providerName%2CviewOptions.providerProductId%2CviewOptions.license%2CviewOptions.media%2CviewOptions.channelId%2CviewOptions.adsContentId%2CviewOptions.adsProviderId%2CviewOptions.playId%2CviewOptions.isUnlocked%2CviewOptions.bobs.detailScreen%2CviewOptions.mvpdLivefeedId%2Cseason.episodes.title%2Cseason.episodes.description%2Cseason.episodes.descriptions.40%2Cseason.episodes.descriptions.60%2Cseason.episodes.episodeNumber%2Cseason.episodes.seasonNumber%2Cseason.episodes.images%2Cseason.episodes.imageMap.grid%2Cseason.episodes.indicators%2Cseason.episodes.releaseDate%2Cseason.episodes.viewOptions&filter=categoryObjects%3AgenreAppropriate%2520eq%2520true%2Cseasons.episodes%3A%28not%2520empty%28viewOptions%29%29%3Aall&featureInclude=bookmark%2Cwatchlist%2ClinearSchedule')
+    )
+  output:
+    credits,viewOptions,categoryObjects,viewOptions.providerDetails,series,season,season.episodes,next,next.series,episodes,seasons[0],seasons[0].episodes&include=type,title,imageMap.detailPoster,imageMap.detailBackground,bobs.detailScreen,categoryObjects,runTimeSeconds,castAndCrew,savable,stationDma,kidsDirected,releaseDate,releaseYear,description,descriptions,indicators,genres,credits.birthDate,credits.meta,credits.order,credits.name,credits.role,credits.personId,credits.images,parentalRatings,reverseChronological,contentRatingClass,languageDialogBody,detailScreenOptions,viewOptions,episodeNumber,seasonNumber,sportInfo,eventState,next.series.title,series.title,season,seasons.title,seasons.seasonNumber,seasons.description,seasons.descriptions,seasons.releaseYear,seasons.castAndCrew,seasons.credits.birthDate,seasons.credits.meta,seasons.credits.order,seasons.credits.name,seasons.credits.role,seasons.credits.personId,seasons.credits.images,seasons.imageMap.detailBackground,seasons.episodes.title,seasons.episodes.description,seasons.episodes.descriptions.40,seasons.episodes.descriptions.60,seasons.episodes.episodeNumber,seasons.episodes.seasonNumber,seasons.episodes.images,seasons.episodes.imageMap.grid,seasons.episodes.indicators,seasons.episodes.releaseDate,seasons.episodes.viewOptions,episodes.episodeNumber,episodes.seasonNumber,episodes.viewOptions,viewOptions.disabled,viewOptions.providerId,viewOptions.providerName,viewOptions.providerProductId,viewOptions.license,viewOptions.media,viewOptions.channelId,viewOptions.adsContentId,viewOptions.adsProviderId,viewOptions.playId,viewOptions.isUnlocked,viewOptions.bobs.detailScreen,viewOptions.mvpdLivefeedId,season.episodes.title,season.episodes.description,season.episodes.descriptions.40,season.episodes.descriptions.60,season.episodes.episodeNumber,season.episodes.seasonNumber,season.episodes.images,season.episodes.imageMap.grid,season.episodes.indicators,season.episodes.releaseDate,season.episodes.viewOptions&filter=categoryObjects:genreAppropriate%20eq%20true,seasons.episodes:(not%20empty(viewOptions)):all&featureInclude=bookmark,watchlist,linearSchedule
+
+-------------------------------------------------------------------------------- episode:
+
+view-source:https://therokuchannel.roku.com/details/1370a003b34f5caeadb328c72336ec9e/the-invisible-man-s1-e1-pilot
+
+notes:
+======
+* no obvious inline scripts or JSON data
+
+--------------------------------------------------------------------------------
+
+https://therokuchannel.roku.com/details/1370a003b34f5caeadb328c72336ec9e/the-invisible-man-s1-e1-pilot
+
+===========
+network tab
+===========
+
+notes:
+======
+
+* API request and response is nearly identical to that for the series page
+* "Play" button URL:
+    https://therokuchannel.roku.com/watch/1370a003b34f5caeadb328c72336ec9e
+
+-------------------------------------------------------------------------------- video player:
+
+view-source:https://therokuchannel.roku.com/watch/1370a003b34f5caeadb328c72336ec9e
+
+notes:
+======
+* no obvious inline scripts or JSON data
+
+--------------------------------------------------------------------------------
+
+https://therokuchannel.roku.com/watch/1370a003b34f5caeadb328c72336ec9e
+
+===========
+network tab
+===========
+
+request:
+========
+
+curl 'https://therokuchannel.roku.com/api/v3/playback' \
+  --compressed \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'csrf-token: vYDuxnJI-droG5KzSlws9NVA4cxWxVLPMzBY' \
+  -H 'x-roku-reserved-session-id: f61bb9d5-64f8-475b-953c-398c64e0d1ed' \
+  -H 'x-roku-reserved-time-zone-offset: -07:00' \
+  -H 'x-roku-reserved-culture-code: en-US' \
+  -H 'x-roku-reserved-experiment-state: W10=' \
+  -H 'x-roku-reserved-amoeba-ids: ' \
+  -H 'x-roku-reserved-experiment-configs: e30=' \
+  -H 'x-roku-reserved-rida: af2822f9-b16d-5376-b09a-8a76aaf657b6' \
+  -H 'x-roku-reserved-lat: 0' \
+  -H 'Content-Type: application/json' \
+  -H 'Origin: https://therokuchannel.roku.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://therokuchannel.roku.com/watch/1370a003b34f5caeadb328c72336ec9e' \
+  -H 'Cookie: _csrf=aPsCem6eQqtu_Mac1Yg5xkTo; ks_v_watch=v1744052996671s; watch.locale=j%3A%7B%22language%22%3A%22en%22%2C%22country%22%3A%22US%22%7D; ks.privacy.ccpa=j%3A%7B%22enabled%22%3Afalse%2C%22optOutSpi%22%3Afalse%7D; _uc=12104273-687e-4114-9e75-f6a57a16a1af%3Ad03bbafb9011879f8775e9b6596ff100; _usn=f61bb9d5-64f8-475b-953c-398c64e0d1ed' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'TE: trailers' \
+  --data-raw '{"rokuId":"1370a003b34f5caeadb328c72336ec9e","playId":"s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1","mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}'
+
+response:
+=========
+./data/02-api-playback-episode.json
+
+notes:
+======
+
+* includes DRM license URL, in addition to all previously available video/caption URLs:
+  - data.playbackMedia.duration
+    * ex: 5186
+    * unit: seconds
+  - data.playbackMedia.validityEndTime
+    * ie: available until
+  - data.playbackMedia.videos[]
+  - data.playbackMedia.videos[i].url
+  - data.playbackMedia.videos[i].streamFormat
+    * ex: "dash"
+  - data.playbackMedia.videos[i].drmParams.licenseServerURL
+  - data.playbackMedia.videos[i].drmParams.keySystem
+    * ex: "Widevine"
+  - data.playbackMedia.captions[]
+  - data.playbackMedia.captions[i].url
+  - data.playbackMedia.captions[i].language
+    * ex: "en-US"
+
+* JSON data sent in POST request:
+  {
+    "rokuId": "1370a003b34f5caeadb328c72336ec9e",
+    "playId": "s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1",
+    "mediaFormat": "mpeg-dash",
+    "drmType": "widevine",
+    "quality": "fhd",
+    "bifUrl": null,
+    "adPolicyId": "",
+    "providerId": "rokuavod"
+  }
+  where:
+  - "rokuId"
+      => data.episodes[j].meta.id
+  - "playId"
+      => data.episodes[j].viewOptions[0].playId
+
+--------------------------------------------------------------------------------
+
+test #01:
+=========
+
+URL (ie: series page) to open in browser:
+  https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+run in JS console:
+  {
+    const api_url   = 'https://therokuchannel.roku.com/api/v3/playback'
+    const headers   = {
+      'content-type': 'application/json'
+    }
+    const post_data = {"rokuId":"1370a003b34f5caeadb328c72336ec9e","playId":"s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1","mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}
+
+    fetch(api_url, {method: 'POST', mode: 'cors', credentials: 'include', cache: 'no-store', headers, body: JSON.stringify(post_data)})
+    .then(res => res.text())
+    .then(console.log)
+  }
+
+output:
+  403 Forbidden
+
+--------------------------------------------------------------------------------
+
+test #02:
+=========
+
+URL (ie: series page) to open in browser:
+  https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+run in JS console:
+  {
+    const api_url   = 'https://therokuchannel.roku.com/api/v3/playback'
+    const headers   = {
+      'content-type': 'application/json',
+      'csrf-token': 'vYDuxnJI-droG5KzSlws9NVA4cxWxVLPMzBY',
+      'x-roku-reserved-session-id': 'f61bb9d5-64f8-475b-953c-398c64e0d1ed',
+      'x-roku-reserved-time-zone-offset': '-07:00',
+      'x-roku-reserved-culture-code': 'en-US',
+      'x-roku-reserved-experiment-state': 'W10=',
+      'x-roku-reserved-amoeba-ids': '',
+      'x-roku-reserved-experiment-configs': 'e30=',
+      'x-roku-reserved-rida': 'af2822f9-b16d-5376-b09a-8a76aaf657b6',
+      'x-roku-reserved-lat': '0'
+    }
+    const post_data = {"rokuId":"1370a003b34f5caeadb328c72336ec9e","playId":"s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1","mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}
+
+    fetch(api_url, {method: 'POST', mode: 'cors', credentials: 'include', cache: 'no-store', headers, body: JSON.stringify(post_data)})
+    .then(res => res.text())
+    .then(console.log)
+  }
+
+output:
+  200 OK
+
+--------------------------------------------------------------------------------
+
+test #03:
+=========
+
+URL (ie: series page) to open in browser:
+  https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+run in JS console:
+  {
+    const api_url   = 'https://therokuchannel.roku.com/api/v3/playback'
+    const headers   = {
+      'content-type': 'application/json',
+      'csrf-token': 'vYDuxnJI-droG5KzSlws9NVA4cxWxVLPMzBY'
+    }
+    const post_data = {"rokuId":"1370a003b34f5caeadb328c72336ec9e","playId":"s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1","mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}
+
+    fetch(api_url, {method: 'POST', mode: 'cors', credentials: 'include', cache: 'no-store', headers, body: JSON.stringify(post_data)})
+    .then(res => res.text())
+    .then(console.log)
+  }
+
+output:
+  200 OK
+
+--------------------------------------------------------------------------------
+
+view-source:https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+<script type="text/javascript">
+  window.__Roku_App_Initial_Values = {
+    resource: {
+      csrf: "vYDuxnJI-droG5KzSlws9NVA4cxWxVLPMzBY",
+    },
+  };
+</script>
+
+--------------------------------------------------------------------------------
+
+test #04:
+=========
+
+URL (ie: series page) to open in browser:
+  https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+run in JS console:
+  {
+    const api_url   = 'https://therokuchannel.roku.com/api/v3/playback'
+    const headers   = {
+      'content-type': 'application/json',
+      'csrf-token': window.__Roku_App_Initial_Values.resource.csrf
+    }
+    const post_data = {"rokuId":"1370a003b34f5caeadb328c72336ec9e","playId":"s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1","mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}
+
+    fetch(api_url, {method: 'POST', mode: 'cors', credentials: 'include', cache: 'no-store', headers, body: JSON.stringify(post_data)})
+    .then(res => res.text())
+    .then(console.log)
+  }
+
+output:
+  200 OK
+
+--------------------------------------------------------------------------------
+
+test #05:
+=========
+
+script:
+=======
+
+#!/usr/bin/env bash
+
+out='05.log'
+csrf='vYDuxnJI-droG5KzSlws9NVA4cxWxVLPMzBY'
+
+curl 'https://therokuchannel.roku.com/api/v3/playback' \
+  -s -i -o "$out" \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Origin: https://therokuchannel.roku.com' \
+  -H 'Referer: https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man' \
+  -H 'Content-Type: application/json' \
+  -H "csrf-token: ${csrf}" \
+  -H "Cookie: _csrf=${csrf}" \
+  --compressed \
+  --data-raw '{"rokuId":"1370a003b34f5caeadb328c72336ec9e","playId":"s-nbcu.YzVlM2QzZmMtODRkMC00ZWRjLTkxOGUtYWUwY2E2YWU1Y2U1","mediaFormat":"mpeg-dash","drmType":"widevine","quality":"fhd","bifUrl":null,"adPolicyId":"","providerId":"rokuavod"}'
+
+output:
+=======
+403 Forbidden
+
+notes:
+======
+* this doesn't matter; I was just curious if it would work
+* all that does matter is that a userscript can fetch the video and DRM data
+  - since this depends on cookies being set by XHR performed by scripts on the page,
+    it would be a good idea to add a delay to the userscript
+  - actually, on 2nd thought..
+    since the UI will display a list of all episodes in the series,
+    and only request the video and DRM data for an individual episode in response to user action (ie: clicking on a button),
+    there's no need to add any additional delay
+
+--------------------------------------------------------------------------------
+
+test #06:
+=========
+
+I'd like to modify the request that produced the file:
+  ./data/01-api-content-series.json
+
+it feels like a GraphQL query,
+and with a little trial/error it may be possible to:
+  * remove unnecessary fields
+  * add "title" and "description" to: data.episodes[]
+
+--------------------------------------------------------------------------------
+
+test #06.01:
+============
+
+URL (ie: series page) to open in browser:
+  https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+run in JS console:
+  {
+    const series_id = '704adf6b21785b8ca336835291c4c67a'
+    const fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,viewOptions,episodes.title,episodes.description,episodes.seasonNumber,episodes.episodeNumber,episodes.viewOptions,viewOptions.media,viewOptions.playId,viewOptions.isUnlocked'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${series_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/06.01-api-content-series.json
+
+--------------------------------------------------------------------------------
+
+test #06.02:
+============
+
+URL (ie: series page) to open in browser:
+  https://therokuchannel.roku.com/details/704adf6b21785b8ca336835291c4c67a/the-invisible-man
+
+run in JS console:
+  {
+    const series_id = '704adf6b21785b8ca336835291c4c67a'
+    const fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${series_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/06.02-api-content-series.json
+
+--------------------------------------------------------------------------------
+
+test #06.03:
+============
+
+URL (ie: episode page in series) to open in browser:
+  https://therokuchannel.roku.com/details/1370a003b34f5caeadb328c72336ec9e/the-invisible-man-s1-e1-pilot
+
+run in JS console:
+  {
+    const episode_id = '1370a003b34f5caeadb328c72336ec9e'
+    const fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${episode_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/06.03-api-content-episode.json
+
+--------------------------------------------------------------------------------
