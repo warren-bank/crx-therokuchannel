@@ -62,6 +62,9 @@ Its purpose is to:
   - login is _not_ required
   - _Referer_ request header is _not_ required
 
+* the [therokuchannel.roku.com](https://therokuchannel.roku.com/) website doesn't provide an _A to Z_ list of all available TV series or movies
+  - the [justwatch.com](https://www.justwatch.com/us/provider/the-roku-channel?sort_by=title&sort_asc=true&monetization_types=ads,free&page=1) website provides a much better interface to browse the content available on _The Roku Channel_
+
 - - - -
 
 #### Bonus:
