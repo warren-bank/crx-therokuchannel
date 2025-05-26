@@ -50,6 +50,8 @@ Its purpose is to:
         * [_ExoAirPlayer_](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver)
         * [_HLS-Proxy_](https://github.com/warren-bank/HLS-Proxy)
 
+- - - -
+
 #### Notes:
 
 * to access the data API endoint:
@@ -59,6 +61,17 @@ Its purpose is to:
 * to access the video stream host:
   - login is _not_ required
   - _Referer_ request header is _not_ required
+
+- - - -
+
+#### Bonus:
+
+["The Roku Channel .css" userscript](https://github.com/warren-bank/crx-therokuchannel/raw/webmonkey-userscript/es5/webmonkey-userscript/therokuchannel.css.user.js)
+
+Its purpose is to apply the following CSS updates:
+* hide modal popup to "create free account"
+
+- - - -
 
 #### Legal:
 

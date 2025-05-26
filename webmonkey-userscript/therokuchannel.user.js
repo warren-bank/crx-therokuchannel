@@ -843,17 +843,6 @@ var reinitialize_dom = function() {
       '  overflow: auto !important;',
       '}',
 
-      // --------------------------------------------------- declutter
-
-      // hide: "create free account" modal overlay
-      'html.modal-default {',
-      '  overflow: auto !important;',
-      '}',
-      'div.roku-modal-overlay,',
-      'div.roku-modal[role="dialog"] {',
-      '  display: none !important;',
-      '}',
-
       // --------------------------------------------------- series title
 
       'body > div > h2 {',
