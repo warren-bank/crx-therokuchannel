@@ -1,0 +1,83 @@
+-------------------------------------------------------------------------------- series:
+
+https://therokuchannel.roku.com/details/0f12f68222925624b0143ae31ab647bf/the-adventures-of-sherlock-holmes
+  series
+
+--------------------------------------------------------------------------------
+
+get all data requested by website
+=================================
+
+run in JS console:
+  {
+    const series_id = '0f12f68222925624b0143ae31ab647bf'
+    const fields = 'credits,viewOptions,categoryObjects,viewOptions.providerDetails,series,season,season.episodes,next,next.series,episodes,seasons[0],seasons[0].episodes&include=type,title,imageMap.detailPoster,imageMap.detailBackground,bobs.detailScreen,categoryObjects,runTimeSeconds,castAndCrew,savable,stationDma,kidsDirected,releaseDate,releaseYear,description,descriptions,indicators,genres,credits.birthDate,credits.meta,credits.order,credits.name,credits.role,credits.personId,credits.images,parentalRatings,reverseChronological,contentRatingClass,languageDialogBody,detailScreenOptions,viewOptions,episodeNumber,seasonNumber,sportInfo,eventState,next.series.title,series.title,season,seasons.title,seasons.seasonNumber,seasons.description,seasons.descriptions,seasons.releaseYear,seasons.castAndCrew,seasons.credits.birthDate,seasons.credits.meta,seasons.credits.order,seasons.credits.name,seasons.credits.role,seasons.credits.personId,seasons.credits.images,seasons.imageMap.detailBackground,seasons.episodes.title,seasons.episodes.description,seasons.episodes.descriptions.40,seasons.episodes.descriptions.60,seasons.episodes.episodeNumber,seasons.episodes.seasonNumber,seasons.episodes.images,seasons.episodes.imageMap.grid,seasons.episodes.indicators,seasons.episodes.releaseDate,seasons.episodes.viewOptions,episodes.episodeNumber,episodes.seasonNumber,episodes.viewOptions,viewOptions.disabled,viewOptions.providerId,viewOptions.providerName,viewOptions.providerProductId,viewOptions.license,viewOptions.media,viewOptions.channelId,viewOptions.adsContentId,viewOptions.adsProviderId,viewOptions.playId,viewOptions.isUnlocked,viewOptions.bobs.detailScreen,viewOptions.mvpdLivefeedId,season.episodes.title,season.episodes.description,season.episodes.descriptions.40,season.episodes.descriptions.60,season.episodes.episodeNumber,season.episodes.seasonNumber,season.episodes.images,season.episodes.imageMap.grid,season.episodes.indicators,season.episodes.releaseDate,season.episodes.viewOptions'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${series_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/01-api-content-series.json
+
+--------------------------------------------------------------------------------
+
+get all data currently requested by userscript
+==============================================
+
+run in JS console:
+  {
+    const series_id = '0f12f68222925624b0143ae31ab647bf'
+    const fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${series_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/02-api-content-series.json
+
+--------------------------------------------------------------------------------
+
+get additional data fields:
+===========================
+  episodes.releaseDate
+  episodes.viewOptions.license
+
+run in JS console:
+  {
+    const series_id = '0f12f68222925624b0143ae31ab647bf'
+    const fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,releaseDate,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,viewOptions.license,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.releaseDate,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime,episodes.viewOptions.license'
+
+    const url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' +
+      encodeURIComponent(
+        `https://content.sr.roku.com/content/v1/roku-trc/${series_id}?expand=${
+          encodeURIComponent(
+            fields
+          )
+        }`
+      )
+
+    fetch(url).then(res => res.json()).then(data => JSON.stringify(data, null, 2)).then(console.log)
+  }
+
+output:
+  ./data/03-api-content-series.json
+
+--------------------------------------------------------------------------------

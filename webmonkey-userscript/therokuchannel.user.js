@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         The Roku Channel
 // @description  Improve site usability. Watch videos in external player.
-// @version      1.0.0
+// @version      1.1.0
 // @match        *://*.therokuchannel.roku.com/details/*
 // @match        *://*.therokuchannel.roku.com/watch/*
 // @icon         https://therokuchannel.roku.com/favicon.ico
@@ -22,7 +22,8 @@ var user_options = {
   "common": {
     "debug_verbosity":              0,  // 0 = silent. 1 = console log. 2 = window alert. 3 = window alert + conditional breakpoint.
     "init_delay_ms":                2500,
-    "sort_newest_first":            false
+    "sort_newest_first":            false,
+    "filter_subscription_content":  true
   },
   "webmonkey": {
     "post_intent_redirect_to_url":  null  // "about:blank"
@@ -62,7 +63,9 @@ var strings = {
     "title":                        "Title:",
     "summary":                      "Summary:",
     "duration":                     "Duration:",
-    "expiration":                   "Available Until:",
+    "date_aired":                   "Release Date:",
+    "date_expiration":              "Available Until:",
+    "license":                      "Content License:",
     "video": {
       "format":                     "Format:",
       "drm":                        "DRM:"
@@ -75,7 +78,7 @@ var strings = {
 var state = {
   csrf_token: null,
   series:     {}, // {roku_id, title, summary}
-  episodes:   []  // [{roku_id, play_id, season_number, episode_number, title, summary, duration, expiration}]
+  episodes:   []  // [{roku_id, play_id, season_number, episode_number, title, summary, duration, date_aired, date_expiration, license}]
 }
 
 // ----------------------------------------------------------------------------- CSP
@@ -527,7 +530,7 @@ var download_roku_content = function(roku_id, callback) {
   if (!callback)
     return
 
-  var fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime'
+  var fields = 'episodes&include=type,title,description,runTimeSeconds,seasonNumber,episodeNumber,releaseDate,viewOptions,viewOptions.playId,viewOptions.hasMedia,viewOptions.validityStartTime,viewOptions.validityEndTime,viewOptions.license,episodes.title,episodes.description,episodes.runTimeSeconds,episodes.seasonNumber,episodes.episodeNumber,episodes.releaseDate,episodes.viewOptions,episodes.viewOptions.playId,episodes.viewOptions.hasMedia,episodes.viewOptions.validityStartTime,episodes.viewOptions.validityEndTime,episodes.viewOptions.license'
 
   var url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/' + encodeURIComponent(
     'https://content.sr.roku.com/content/v1/roku-trc/' + roku_id + '?expand=' + encodeURIComponent(fields)
@@ -584,14 +587,16 @@ var pre_process_roku_content_series = function(roku_content) {
     })
     .map(function(ep) {
       return {
-        roku_id:        ep.meta.id,
-        play_id:        ep.viewOptions.playId,
-        season_number:  ep.seasonNumber,
-        episode_number: ep.episodeNumber,
-        title:          ep.title,
-        summary:        ep.description,
-        duration:       ep.runTimeSeconds,
-        expiration:     ep.viewOptions.validityEndTime
+        roku_id:         ep.meta.id,
+        play_id:         ep.viewOptions.playId,
+        season_number:   ep.seasonNumber,
+        episode_number:  ep.episodeNumber,
+        title:           ep.title,
+        summary:         ep.description,
+        duration:        ep.runTimeSeconds,
+        date_aired:      ep.releaseDate,
+        date_expiration: ep.viewOptions.validityEndTime,
+        license:         ep.viewOptions.license
       }
     })
     .sort(function(a, b) {
@@ -631,14 +636,16 @@ var pre_process_roku_content_episode = function(ep) {
   normalize_roku_content(ep)
 
   state.episodes.push({
-    roku_id:        ep.meta.id,
-    play_id:        ep.viewOptions.playId,
-    season_number:  ep.seasonNumber,
-    episode_number: ep.episodeNumber,
-    title:          ep.title,
-    summary:        ep.description,
-    duration:       ep.runTimeSeconds,
-    expiration:     ep.viewOptions.validityEndTime
+    roku_id:         ep.meta.id,
+    play_id:         ep.viewOptions.playId,
+    season_number:   ep.seasonNumber,
+    episode_number:  ep.episodeNumber,
+    title:           ep.title,
+    summary:         ep.description,
+    duration:        ep.runTimeSeconds,
+    date_aired:      ep.releaseDate,
+    date_expiration: ep.viewOptions.validityEndTime,
+    license:         ep.viewOptions.license
   })
 }
 
@@ -674,6 +681,7 @@ var validate_roku_content_viewoptions = function(ep) {
         && (vo.playId)
         && (vo.hasMedia)
         && validate_roku_content_viewoption_availability(vo)
+        && validate_roku_content_viewoption_license(vo)
       ) {
         ep.viewOptions = vo
         return true
@@ -704,9 +712,16 @@ var validate_roku_content_viewoption_availability = function(vo) {
   return true
 }
 
+var validate_roku_content_viewoption_license = function(vo) {
+  return !(user_options.common.filter_subscription_content && (vo.license === 'Subscription'))
+}
+
 var normalize_roku_content = function(ep) {
   if (ep.runTimeSeconds)
     ep.runTimeSeconds = convertSecondsToReadableString(ep.runTimeSeconds)
+
+  if (ep.releaseDate)
+    ep.releaseDate = (new Date(ep.releaseDate)).toLocaleString()
 
   if (ep.viewOptions.validityEndTime)
     ep.viewOptions.validityEndTime = (new Date(ep.viewOptions.validityEndTime)).toLocaleString()
@@ -1022,7 +1037,7 @@ var reinitialize_dom = function() {
 // ----------------------------------------------------------------------------- DOM: <li> for episode in show series
 
 var make_episode_listitem_element = function(episode) {
-  // const {roku_id, play_id, season_number, episode_number, title, summary, duration, expiration} = episode
+  // const {roku_id, play_id, season_number, episode_number, title, summary, duration, date_aired, date_expiration, license} = episode
 
   var tr, html, li, div_dynamic
 
@@ -1035,8 +1050,12 @@ var make_episode_listitem_element = function(episode) {
     append_tr(tr, [strings.episode_labels.title, episode.title])
   if (episode.duration)
     append_tr(tr, [strings.episode_labels.duration, episode.duration])
-  if (episode.expiration)
-    append_tr(tr, [strings.episode_labels.expiration, episode.expiration])
+  if (episode.date_aired)
+    append_tr(tr, [strings.episode_labels.date_aired, episode.date_aired])
+  if (episode.date_expiration)
+    append_tr(tr, [strings.episode_labels.date_expiration, episode.date_expiration])
+  if (episode.license)
+    append_tr(tr, [strings.episode_labels.license, episode.license])
   if (episode.summary)
     append_tr(tr, strings.episode_labels.summary, 2)
 

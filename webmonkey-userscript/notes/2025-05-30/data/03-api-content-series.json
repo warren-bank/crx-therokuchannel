@@ -1,0 +1,1779 @@
+{
+  "type": "series",
+  "episodes": [
+    {
+      "meta": {
+        "id": "c486d8a5265658b7ae6052ce1a93c498",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/c486d8a5265658b7ae6052ce1a93c498",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/c486d8a5265658b7ae6052ce1a93c498",
+        "sid": "c486d8a5265658b7ae6052ce1a93c498",
+        "wid": "c486d8a5265658b7ae6052ce1a93c498"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Careless Suffragette",
+      "description": "A bomb kills a government official.",
+      "releaseDate": "1955-02-28T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.MjU0MTExOGEtNjQ3NC00M2UxLWJmY2ItYjMxMDkyNTY0Mjdl",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "a2c6e62d02dd5718be0751a709467297",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/a2c6e62d02dd5718be0751a709467297",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/a2c6e62d02dd5718be0751a709467297",
+        "sid": "a2c6e62d02dd5718be0751a709467297",
+        "wid": "a2c6e62d02dd5718be0751a709467297"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Cunningham Heritage",
+      "description": "A woman is accused of killing her fiance.",
+      "releaseDate": "1954-10-18T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.NTI5NTY1Y2UtMWFhZS00MjcxLWIwY2UtMTM0YTc5ZWY0MmNl",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "6882ba2992fb513fb1d4d47282c06dad",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/6882ba2992fb513fb1d4d47282c06dad",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/6882ba2992fb513fb1d4d47282c06dad",
+        "sid": "6882ba2992fb513fb1d4d47282c06dad",
+        "wid": "6882ba2992fb513fb1d4d47282c06dad"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the French Interpreter",
+      "description": "Holmes and Watson try to rescue a prisoner.",
+      "releaseDate": "1955-01-17T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.MGRhY2M5ODEtNjdhMi00OTZjLWE2ZDUtYTA3ZTBkNzEwYzlh",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "629f97d35c1f554cb643b78435ef0600",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/629f97d35c1f554cb643b78435ef0600",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/629f97d35c1f554cb643b78435ef0600",
+        "sid": "629f97d35c1f554cb643b78435ef0600",
+        "wid": "629f97d35c1f554cb643b78435ef0600"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Red-Headed League",
+      "description": "Holmes and Watson track bank robbers.",
+      "releaseDate": "1954-12-27T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ZGRlMWNkOWQtMGFjMC00ZjMwLWFlYzgtNWJmYTYzZGI1MDRi",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "57fc7c5242ee57cfa83b73fa2a752d0d",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/57fc7c5242ee57cfa83b73fa2a752d0d",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/57fc7c5242ee57cfa83b73fa2a752d0d",
+        "sid": "57fc7c5242ee57cfa83b73fa2a752d0d",
+        "wid": "57fc7c5242ee57cfa83b73fa2a752d0d"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Mother Hubbard Case",
+      "description": "A lost child is somehow linked to seven deaths.",
+      "releaseDate": "1954-12-20T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ZmNmYzQ3YjktNDk2Yi00M2U3LWE4MTktOTc4MmIwMjM0NGFi",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "535d984559fb573384fdeb9699c532ac",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/535d984559fb573384fdeb9699c532ac",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/535d984559fb573384fdeb9699c532ac",
+        "sid": "535d984559fb573384fdeb9699c532ac",
+        "wid": "535d984559fb573384fdeb9699c532ac"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Shy Ballerina",
+      "description": "Dr. Watson is accused of committing a murder.",
+      "releaseDate": "1954-11-22T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ZGFjZWFjMmEtMWQwZC00MjAzLTk1NzYtYzJiNzhmMGFmMmNj",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "52dea57f2fcf5138a55dafa84306cd17",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/52dea57f2fcf5138a55dafa84306cd17",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/52dea57f2fcf5138a55dafa84306cd17",
+        "sid": "52dea57f2fcf5138a55dafa84306cd17",
+        "wid": "52dea57f2fcf5138a55dafa84306cd17"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Violent Suitor",
+      "description": "Holmes is asked for help in preventing a wedding.",
+      "releaseDate": "1955-04-18T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.OWNmYWFhZWUtN2ZkYS00ZWE0LTg2N2MtZDRmNjBkYWUzMDQ1",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "4bf4bb45956658408dbb54a4e07d8508",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/4bf4bb45956658408dbb54a4e07d8508",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/4bf4bb45956658408dbb54a4e07d8508",
+        "sid": "4bf4bb45956658408dbb54a4e07d8508",
+        "wid": "4bf4bb45956658408dbb54a4e07d8508"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Jolly Hangman",
+      "description": "The sleuth helps a salesman's wife prove her spouse didn't commit suicide.",
+      "releaseDate": "1955-05-09T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.YzFiYjBiMjYtMTA2My00ODU1LWJlM2YtOTZhM2IxYmZkZDdh",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "132e3dc421b75177bd2b28bc9e76480c",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/132e3dc421b75177bd2b28bc9e76480c",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/132e3dc421b75177bd2b28bc9e76480c",
+        "sid": "132e3dc421b75177bd2b28bc9e76480c",
+        "wid": "132e3dc421b75177bd2b28bc9e76480c"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Eiffel Tower",
+      "description": "A puzzling note causes Holmes, Watson and Lestrade to journey to Paris.",
+      "releaseDate": "1955-05-23T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.YTFiNjljYWItZWIxNi00NGJlLWEwZTQtYWIzNWQ1NjUxZjBk",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "04a63536c7635459872335179bc9c76c",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/04a63536c7635459872335179bc9c76c",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/04a63536c7635459872335179bc9c76c",
+        "sid": "04a63536c7635459872335179bc9c76c",
+        "wid": "04a63536c7635459872335179bc9c76c"
+      },
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Pennsylvania Gun",
+      "description": "Sherlock Holmes solves a most complicated murder.",
+      "releaseDate": "1954-11-01T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.YWM2ZGVhNDMtNTkxNy00Nzk4LWE1M2ItYWZhZmEzMDBhNDk5",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "cfb8d42e78045079925bfc8216795e61",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/cfb8d42e78045079925bfc8216795e61",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/cfb8d42e78045079925bfc8216795e61",
+        "sid": "cfb8d42e78045079925bfc8216795e61",
+        "wid": "cfb8d42e78045079925bfc8216795e61"
+      },
+      "episodeNumber": "1",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Cunningham Heritage",
+      "description": "A woman is accused of killing her fiance.",
+      "releaseDate": "1954-10-18T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NWMzYjNjYzAtNjdjMS00ODg0LTg5NjUtNDEzYzE3NzVhOWY1",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "90a2809c2b5f541fbe88cc072a50a899",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/90a2809c2b5f541fbe88cc072a50a899",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/90a2809c2b5f541fbe88cc072a50a899",
+        "sid": "90a2809c2b5f541fbe88cc072a50a899",
+        "wid": "90a2809c2b5f541fbe88cc072a50a899"
+      },
+      "episodeNumber": "2",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of Lady Beryl",
+      "description": "A woman confesses to a murder she didn't commit.",
+      "releaseDate": "1954-10-25T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.ZGY4Y2IwZDgtMTQyNy00NjM2LWFiMzEtOWYxNzk3NDA2MThm",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.YjlmNmE3M2QtOWNhOS00NmY0LThlYWUtYTI1NDQ4MWE4NTMw",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "0373a55899305597bd4e6f0e656125fe",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/0373a55899305597bd4e6f0e656125fe",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/0373a55899305597bd4e6f0e656125fe",
+        "sid": "0373a55899305597bd4e6f0e656125fe",
+        "wid": "0373a55899305597bd4e6f0e656125fe"
+      },
+      "episodeNumber": "3",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Pennsylvania Gun",
+      "description": "Sherlock Holmes solves a most complicated murder.",
+      "releaseDate": "1954-11-01T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YzgzYTg1ZTEtYzU0Zi00ODg4LTkyNzYtMTAxODNmNjEyOTk3",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "4558722625c45d24889478efe92d5e7d",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/4558722625c45d24889478efe92d5e7d",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/4558722625c45d24889478efe92d5e7d",
+        "sid": "4558722625c45d24889478efe92d5e7d",
+        "wid": "4558722625c45d24889478efe92d5e7d"
+      },
+      "episodeNumber": "4",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Texas Cowgirl",
+      "description": "A showgirl finds a corpse in her hotel room.",
+      "releaseDate": "1954-11-08T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NjhkMDg0MzAtMjAwYy00ZDFhLTk3MDUtZTkwNmE1ZTY3NWY1",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "38e25b1ce84d5b07a36d8d0b9f2f9221",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/38e25b1ce84d5b07a36d8d0b9f2f9221",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/38e25b1ce84d5b07a36d8d0b9f2f9221",
+        "sid": "38e25b1ce84d5b07a36d8d0b9f2f9221",
+        "wid": "38e25b1ce84d5b07a36d8d0b9f2f9221"
+      },
+      "episodeNumber": "5",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Belligerent Ghost",
+      "description": "Dr. Watson is punched in the eye by a dead man.",
+      "releaseDate": "1954-11-15T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NDQwZDIzZjItZDk3Ni00YzFhLTgzN2QtMTU2OTk2YjM1ZDg3",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "bc3435bab23152d989d87dc211233307",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/bc3435bab23152d989d87dc211233307",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/bc3435bab23152d989d87dc211233307",
+        "sid": "bc3435bab23152d989d87dc211233307",
+        "wid": "bc3435bab23152d989d87dc211233307"
+      },
+      "episodeNumber": "6",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Shy Ballerina",
+      "description": "Dr. Watson is accused of committing a murder.",
+      "releaseDate": "1954-11-22T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NWM5OWYyNzktODk4Zi00MTZjLTljY2MtMDFkMDU2YzBiMjJl",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "f2b270da41915d9c962818e3c8f67175",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/f2b270da41915d9c962818e3c8f67175",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/f2b270da41915d9c962818e3c8f67175",
+        "sid": "f2b270da41915d9c962818e3c8f67175",
+        "wid": "f2b270da41915d9c962818e3c8f67175"
+      },
+      "episodeNumber": "7",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Winthrop Legend",
+      "description": "Silver coins are clues to mysterious death warnings.",
+      "releaseDate": "1954-11-29T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YTg2YmJjNWQtMjU3Ni00ZTE5LWJmMGItYmNjNzUxNjc0MWFk",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "2083b0402941566faf9cb8aefdf7f7de",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/2083b0402941566faf9cb8aefdf7f7de",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/2083b0402941566faf9cb8aefdf7f7de",
+        "sid": "2083b0402941566faf9cb8aefdf7f7de",
+        "wid": "2083b0402941566faf9cb8aefdf7f7de"
+      },
+      "episodeNumber": "8",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of Blind Man's Bluff",
+      "description": "A chicken claw tied with black ribbon is left behind at the scene of several murders.",
+      "releaseDate": "1954-12-06T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.MjEwNTJiYmUtMzg3YS00NDUyLWI5ZjctNjY4YTVhZGVjODQw",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.Y2JjNmI1YTItODdhNC00NTY5LThiNmUtYTIzODUzYzkwYWFk",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "708b1b3daf3d5d288d048abd5fd5666a",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/708b1b3daf3d5d288d048abd5fd5666a",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/708b1b3daf3d5d288d048abd5fd5666a",
+        "sid": "708b1b3daf3d5d288d048abd5fd5666a",
+        "wid": "708b1b3daf3d5d288d048abd5fd5666a"
+      },
+      "episodeNumber": "9",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of Harry Crocker",
+      "description": "Holmes sets out to prove that a famous escape artist is not a murderer.",
+      "releaseDate": "1954-12-13T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.ODhkOWM2MmYtNTcyYi00ZGQ1LTljYzUtZGVmOGVkYjhlZThl",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.MDcwYWNiMmEtNmI4Yi00NTRlLWE2MjItNTk5ZDQ3ZDcyNTRl",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "91fc9be991f959a6bfb790d77a2d647a",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/91fc9be991f959a6bfb790d77a2d647a",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/91fc9be991f959a6bfb790d77a2d647a",
+        "sid": "91fc9be991f959a6bfb790d77a2d647a",
+        "wid": "91fc9be991f959a6bfb790d77a2d647a"
+      },
+      "episodeNumber": "10",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Mother Hubbard Case",
+      "description": "Sherlock Holmes is on the trail of a murderer who has been using a young girl to lure victims to empty houses where they are killed.",
+      "releaseDate": "1954-12-20T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.OGIyYTA5MzMtY2Y0YS00YWQ3LWEyZWQtMzMxYjJjZTg5MzFm",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "d5bb2180c4935edf815bf24fb795facf",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/d5bb2180c4935edf815bf24fb795facf",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/d5bb2180c4935edf815bf24fb795facf",
+        "sid": "d5bb2180c4935edf815bf24fb795facf",
+        "wid": "d5bb2180c4935edf815bf24fb795facf"
+      },
+      "episodeNumber": "11",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Red-Headed League",
+      "description": "Holmes and Watson track bank robbers.",
+      "releaseDate": "1954-12-27T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.ZmNkZTUxZDgtMDVlOC00ZTdhLWI0ZGYtMzFiMmNkMzQ1NWM4",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "39b96147e9f55eecaa6b8882d8c8cf03",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/39b96147e9f55eecaa6b8882d8c8cf03",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/39b96147e9f55eecaa6b8882d8c8cf03",
+        "sid": "39b96147e9f55eecaa6b8882d8c8cf03",
+        "wid": "39b96147e9f55eecaa6b8882d8c8cf03"
+      },
+      "episodeNumber": "12",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Adventures of Sherlock Holmes",
+      "description": "A mute girl tries to warn an engineer that he will soon be killed.",
+      "releaseDate": "1955-01-03T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NDUzOTU3YTYtNGZmZC00ZjQ4LTg3NTAtMDc2NGViNjkxZGVm",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "b19c1cb59e575c83ab9ce71a5a80855d",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/b19c1cb59e575c83ab9ce71a5a80855d",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/b19c1cb59e575c83ab9ce71a5a80855d",
+        "sid": "b19c1cb59e575c83ab9ce71a5a80855d",
+        "wid": "b19c1cb59e575c83ab9ce71a5a80855d"
+      },
+      "episodeNumber": "13",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Split Ticket",
+      "description": "Holmes and Watson find Brian O'Casey waiting for them at their flat.",
+      "releaseDate": "1955-01-10T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NjI5MWU1OTktNzkxYS00MWVmLWIzZTAtMGU5NjFhN2NmY2Q0",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.NDU0YzVkNjYtYTY1Yy00N2NmLWIxNDYtN2E1MjA1MDg4OTIy",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "ea9254b85a6755ddb6cbe225b91c0822",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/ea9254b85a6755ddb6cbe225b91c0822",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/ea9254b85a6755ddb6cbe225b91c0822",
+        "sid": "ea9254b85a6755ddb6cbe225b91c0822",
+        "wid": "ea9254b85a6755ddb6cbe225b91c0822"
+      },
+      "episodeNumber": "14",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the French Interpreter",
+      "description": "Holmes and Watson try to rescue a prisoner.",
+      "releaseDate": "1955-01-17T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NTI0NjBjYTQtOTM2OC00ZmNjLWEzODUtMzA3YjVkN2FmZjlk",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "897abcb6fa7d5397ba1415357445517e",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/897abcb6fa7d5397ba1415357445517e",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/897abcb6fa7d5397ba1415357445517e",
+        "sid": "897abcb6fa7d5397ba1415357445517e",
+        "wid": "897abcb6fa7d5397ba1415357445517e"
+      },
+      "episodeNumber": "15",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Singing Violin",
+      "description": "A young woman is driven mad by a stepfather who wants her fortune.",
+      "releaseDate": "1955-01-24T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YjlhZGE0N2YtNTliMS00YmYwLTkwM2YtZjExNTg5ZmE2MjNm",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "079cc13df8dc57449a800968ad8fa717",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/079cc13df8dc57449a800968ad8fa717",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/079cc13df8dc57449a800968ad8fa717",
+        "sid": "079cc13df8dc57449a800968ad8fa717",
+        "wid": "079cc13df8dc57449a800968ad8fa717"
+      },
+      "episodeNumber": "16",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Greystone Inscription",
+      "description": "Miss Channing seeks Holmes' help after her fiance disappears at Greystone Castle.",
+      "releaseDate": "1955-01-31T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.ZDQ1ODNlNDEtMDgwZS00Y2FmLTk1MjQtNjZiMDlmODg0MTgx",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.OGMwOWJjODEtYTdmOS00YjVkLThlYzctMmY4ZTBiNGE3ODhj",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "86bd0b3f4d385dbea17d0b469ebde30e",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/86bd0b3f4d385dbea17d0b469ebde30e",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/86bd0b3f4d385dbea17d0b469ebde30e",
+        "sid": "86bd0b3f4d385dbea17d0b469ebde30e",
+        "wid": "86bd0b3f4d385dbea17d0b469ebde30e"
+      },
+      "episodeNumber": "17",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Laughing Mummy",
+      "description": "Holmes and Watson investigate a mummy that makes strange noises.",
+      "releaseDate": "1955-02-07T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.Y2I5Y2MwOTgtZGNkNS00YTQzLTgxMzgtMDQ3NmViYmFiYzhh",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.NzU1M2E3NDctNDA2MC00ODU2LTliZGItOGEwNzk1YmQ5OTdi",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "93f7277bf9885dd499bd4293cfee4a99",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/93f7277bf9885dd499bd4293cfee4a99",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/93f7277bf9885dd499bd4293cfee4a99",
+        "sid": "93f7277bf9885dd499bd4293cfee4a99",
+        "wid": "93f7277bf9885dd499bd4293cfee4a99"
+      },
+      "episodeNumber": "18",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Thistle Killer",
+      "description": "A London cabbie murders his victims by posing as a police officer.",
+      "releaseDate": "1955-02-14T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.MjE4NGNkZWMtYjQzMC00MGE4LWI4MTctZWZlZThjYzhmOTIx",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "03b5bd2325855835b49ee9a9cd3f7ed2",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/03b5bd2325855835b49ee9a9cd3f7ed2",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/03b5bd2325855835b49ee9a9cd3f7ed2",
+        "sid": "03b5bd2325855835b49ee9a9cd3f7ed2",
+        "wid": "03b5bd2325855835b49ee9a9cd3f7ed2"
+      },
+      "episodeNumber": "19",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Vanished Detective",
+      "description": "Watson and his companion seek Sherlock Holmes, who has seemingly vanished.",
+      "releaseDate": "1955-02-21T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YjdmZWI4ZmUtNTM3Yy00NDMwLWI0MjAtZDc5ZmNmMTYwOGU2",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "aab833cdbbbb5d61a173127386e08f4e",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/aab833cdbbbb5d61a173127386e08f4e",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/aab833cdbbbb5d61a173127386e08f4e",
+        "sid": "aab833cdbbbb5d61a173127386e08f4e",
+        "wid": "aab833cdbbbb5d61a173127386e08f4e"
+      },
+      "episodeNumber": "20",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Careless Suffragette",
+      "description": "A bomb kills a government official.",
+      "releaseDate": "1955-02-28T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YmQ0OWQ4NzUtMzA2OC00YTk5LTg3MWUtOTVmZDc2NjQ5YWQ3",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "f1bf40fc22f75a42b633cf7a28411ba4",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/f1bf40fc22f75a42b633cf7a28411ba4",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/f1bf40fc22f75a42b633cf7a28411ba4",
+        "sid": "f1bf40fc22f75a42b633cf7a28411ba4",
+        "wid": "f1bf40fc22f75a42b633cf7a28411ba4"
+      },
+      "episodeNumber": "21",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Reluctant Carpenter",
+      "description": "A pyromaniac is blackmailing the City of London.",
+      "releaseDate": "1955-03-07T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YTNkNjAyNGMtMWFiYi00OWY1LWFmOTUtM2E3YWFhMDA0N2Zk",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e421a4e4984454ebb66a76cd397db29c",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e421a4e4984454ebb66a76cd397db29c",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e421a4e4984454ebb66a76cd397db29c",
+        "sid": "e421a4e4984454ebb66a76cd397db29c",
+        "wid": "e421a4e4984454ebb66a76cd397db29c"
+      },
+      "episodeNumber": "22",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Adventures of Sherlock Holmes",
+      "description": "People begin dying after a schoolboy writes their names on the church steps.",
+      "releaseDate": "1955-03-14T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.MmVkZDllZjItZWUzNy00NWVmLWE4NDEtNDE0NmYxMGRkMDU3",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.MDUwMDMwOTEtNzAyOC00MTg4LWI2YWYtY2Q2OTIwMTQ0OWJh",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "24ae76fe921c59bdac7de0059ab048b6",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/24ae76fe921c59bdac7de0059ab048b6",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/24ae76fe921c59bdac7de0059ab048b6",
+        "sid": "24ae76fe921c59bdac7de0059ab048b6",
+        "wid": "24ae76fe921c59bdac7de0059ab048b6"
+      },
+      "episodeNumber": "23",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Christmas Pudding",
+      "description": "A prisoner escapes shortly after he receives Christmas pudding.",
+      "releaseDate": "1955-04-04T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YzQ1Y2FjODAtN2U5OS00MTJmLWEwOGYtODY4OTAwYjYxYmQ4",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.MzYyMjUxZDgtMjc2OC00YzllLTk5MTQtOGUwYjdmNjdkYzY2",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e6e6273d81d755498238c21d41d7c01c",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e6e6273d81d755498238c21d41d7c01c",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e6e6273d81d755498238c21d41d7c01c",
+        "sid": "e6e6273d81d755498238c21d41d7c01c",
+        "wid": "e6e6273d81d755498238c21d41d7c01c"
+      },
+      "episodeNumber": "24",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Night Train Riddle",
+      "description": "Holmes investigates a kidnapping after a circus clown helps a boy escape from a moving train.",
+      "releaseDate": "1955-04-11T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NjM0ZThmMWQtY2ZjNy00Mzk3LWEwMDItMWM4MGUxYjA4NmQ0",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.ODg2YzI4YWItOGZhYS00NjVjLWI0YzQtNDFmZTZlZDgyYmM3",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "c0addd0490cb5874be647cd1c02ec13d",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/c0addd0490cb5874be647cd1c02ec13d",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/c0addd0490cb5874be647cd1c02ec13d",
+        "sid": "c0addd0490cb5874be647cd1c02ec13d",
+        "wid": "c0addd0490cb5874be647cd1c02ec13d"
+      },
+      "episodeNumber": "25",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Violent Suitor",
+      "description": "Holmes is asked for help in preventing a wedding.",
+      "releaseDate": "1955-04-18T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.ZjFjZTU0N2ItMDVmYS00MGYxLTlhNjctZGYzY2M0MjRkMTkx",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "6b22ba9627da5a3aad990494083ce4f1",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/6b22ba9627da5a3aad990494083ce4f1",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/6b22ba9627da5a3aad990494083ce4f1",
+        "sid": "6b22ba9627da5a3aad990494083ce4f1",
+        "wid": "6b22ba9627da5a3aad990494083ce4f1"
+      },
+      "episodeNumber": "26",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Baker Street Nursemaids",
+      "description": "A delivery boy leaves Holmes with a baby and a mysterious note.",
+      "releaseDate": "1955-04-25T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YjU3MWNkMjktMTI3MC00Njc4LTljZjEtZWRjOTFjODcyNjc4",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.YzViYTEwOGYtYjNjZS00Y2IxLWI2YzgtYWY1OTc0YWU4ODk2",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "83f8754e63a85fa4ad68c217084f4ca2",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/83f8754e63a85fa4ad68c217084f4ca2",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/83f8754e63a85fa4ad68c217084f4ca2",
+        "sid": "83f8754e63a85fa4ad68c217084f4ca2",
+        "wid": "83f8754e63a85fa4ad68c217084f4ca2"
+      },
+      "episodeNumber": "27",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Perfect Husband",
+      "description": "An art dealer warns his wife about being his eighth murder victim.",
+      "releaseDate": "1955-05-02T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.Y2I4ZTZkNmQtM2ExNi00OWQ3LTg4MDMtYjUxMzI5MDZhNTBm",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e4d3e5f8e20d5e76a4111b25bafe36b2",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e4d3e5f8e20d5e76a4111b25bafe36b2",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e4d3e5f8e20d5e76a4111b25bafe36b2",
+        "sid": "e4d3e5f8e20d5e76a4111b25bafe36b2",
+        "wid": "e4d3e5f8e20d5e76a4111b25bafe36b2"
+      },
+      "episodeNumber": "28",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Jolly Hangman",
+      "description": "The sleuth helps a salesman's wife prove her spouse didn't commit suicide.",
+      "releaseDate": "1955-05-09T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.ZWJmYzg0YjktZDM4ZC00OTk4LWJlYzQtMWU4MzNhYzY5YWYz",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "921db0c03e845cf1a7b390e07fc5f5d2",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/921db0c03e845cf1a7b390e07fc5f5d2",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/921db0c03e845cf1a7b390e07fc5f5d2",
+        "sid": "921db0c03e845cf1a7b390e07fc5f5d2",
+        "wid": "921db0c03e845cf1a7b390e07fc5f5d2"
+      },
+      "episodeNumber": "29",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Impostor Mystery",
+      "description": "Holmes tries to catch an impostor.",
+      "releaseDate": "1955-05-19T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.M2ExNmMzZDgtMzJlOC00MDFjLWIzZGEtZGEyNzY5OGM4MmI0",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.ZDE3ZjNjNDItNjgwYi00OTM1LWE1NmMtN2JhMjMzYjVhZmVi",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "ba1745f56a885a9daf616e5d30729b01",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/ba1745f56a885a9daf616e5d30729b01",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/ba1745f56a885a9daf616e5d30729b01",
+        "sid": "ba1745f56a885a9daf616e5d30729b01",
+        "wid": "ba1745f56a885a9daf616e5d30729b01"
+      },
+      "episodeNumber": "30",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Eiffel Tower",
+      "description": "A puzzling note causes Holmes, Watson and Lestrade to journey to Paris.",
+      "releaseDate": "1955-05-23T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.MDc5ZGJlMGQtYzY0Yi00NDc2LWEwZjAtNGRlYWMxN2FlOWQ0",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "ca2fb7af9b835a0dbbc73dd28e2be9c2",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/ca2fb7af9b835a0dbbc73dd28e2be9c2",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/ca2fb7af9b835a0dbbc73dd28e2be9c2",
+        "sid": "ca2fb7af9b835a0dbbc73dd28e2be9c2",
+        "wid": "ca2fb7af9b835a0dbbc73dd28e2be9c2"
+      },
+      "episodeNumber": "31",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Exhumed Client",
+      "description": "Holmes believes Sir Charles is murdered by one of his heirs.",
+      "releaseDate": "1955-05-30T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YTc2MmIzZTMtNTQzMC00MWViLThjODUtMTdiMmNkM2I5YWU0",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.YTU0ZWQzODAtYjRiMi00MDY5LTkyMDgtNmY1MjY1Y2Y3OWJk",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "ebe7f9f072465b9f99a0102274d6ff61",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/ebe7f9f072465b9f99a0102274d6ff61",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/ebe7f9f072465b9f99a0102274d6ff61",
+        "sid": "ebe7f9f072465b9f99a0102274d6ff61",
+        "wid": "ebe7f9f072465b9f99a0102274d6ff61"
+      },
+      "episodeNumber": "32",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Impromptu Performance",
+      "description": "Holmes finds his life in jeopardy when he is duped by an actor.",
+      "releaseDate": "1955-06-06T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.NGJkNTRkNzYtYjZkMS00ZGYwLWIyZmEtYWQ4OTAyNTdjMGVk",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "42c8e88ecfce5d48bf8648ae4fd4828f",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/42c8e88ecfce5d48bf8648ae4fd4828f",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/42c8e88ecfce5d48bf8648ae4fd4828f",
+        "sid": "42c8e88ecfce5d48bf8648ae4fd4828f",
+        "wid": "42c8e88ecfce5d48bf8648ae4fd4828f"
+      },
+      "episodeNumber": "33",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Baker Street Bachelors",
+      "description": "Holmes is jailed after visiting the Cupid's Bow Marriage Bureau.",
+      "releaseDate": "1955-06-20T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.MTMzMzlmZjEtZDIxMi00M2RiLTgzNTAtMzJmNDIyZDExZmVj",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.MWEzMzM4MDItY2Y4OC00MDZhLWEzNTItN2FjMTI1ZGRmNzkx",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "813140bea1c255dab8bbdd1505337dfe",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/813140bea1c255dab8bbdd1505337dfe",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/813140bea1c255dab8bbdd1505337dfe",
+        "sid": "813140bea1c255dab8bbdd1505337dfe",
+        "wid": "813140bea1c255dab8bbdd1505337dfe"
+      },
+      "episodeNumber": "34",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Royal Murder",
+      "description": "Holmes and Watson witness a murder while dining at a cabin belonging to royalty.",
+      "releaseDate": "1955-06-27T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.Y2ZlYmVmMmUtODM4My00NjJiLTk4OGMtMjNhNWY4OTJmMDQ3",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "a552a170cd165dcf903224ab5e42b1cf",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/a552a170cd165dcf903224ab5e42b1cf",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/a552a170cd165dcf903224ab5e42b1cf",
+        "sid": "a552a170cd165dcf903224ab5e42b1cf",
+        "wid": "a552a170cd165dcf903224ab5e42b1cf"
+      },
+      "episodeNumber": "35",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Haunted Gainsborough",
+      "description": "Holmes investigates the mystery of a ghost in a castle.",
+      "releaseDate": "1955-07-04T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YjJjMWJlY2ItOTZiZC00N2RhLTgwZGQtMGM2NmE3OTZhYzA1",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "f0c88b9613925b5fbda180fc84f48c9b",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/f0c88b9613925b5fbda180fc84f48c9b",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/f0c88b9613925b5fbda180fc84f48c9b",
+        "sid": "f0c88b9613925b5fbda180fc84f48c9b",
+        "wid": "f0c88b9613925b5fbda180fc84f48c9b"
+      },
+      "episodeNumber": "36",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Neurotic Detective",
+      "description": "Dr. Watson is suspicious of Holmes.",
+      "releaseDate": "1955-07-11T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.MmVmYzFjODMtYThlMC00ZjkxLWI2MWYtNTU1Yjk3ZDdkYjg0",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.MjE3ODZkY2MtODFlMy00M2Y4LWE0ZGMtZWE4ODQyYzA3ZDJl",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "17e4c1d9994258d69fb475465f11a6a0",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/17e4c1d9994258d69fb475465f11a6a0",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/17e4c1d9994258d69fb475465f11a6a0",
+        "sid": "17e4c1d9994258d69fb475465f11a6a0",
+        "wid": "17e4c1d9994258d69fb475465f11a6a0"
+      },
+      "episodeNumber": "37",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Unlucky Gambler",
+      "description": "A boy wants to find his missing father.",
+      "releaseDate": "1955-07-18T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.OWJhM2RmYWItMzdhNS00ZTgzLTlhNmMtZDg1OWJiMWYyMThh",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        },
+        {
+          "playId": "s-cinedigm_dove.MThlZTY2NzUtZjZkNy00MjE4LTk5ZjktNGVjM2E1MDAwMjA2",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "1df928e9de3a5244b44d5ab692b114f7",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/1df928e9de3a5244b44d5ab692b114f7",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/1df928e9de3a5244b44d5ab692b114f7",
+        "sid": "1df928e9de3a5244b44d5ab692b114f7",
+        "wid": "1df928e9de3a5244b44d5ab692b114f7"
+      },
+      "episodeNumber": "38",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Diamond Tooth",
+      "description": "Holmes attempts to solve London's most celebrated murder mystery.",
+      "releaseDate": "1955-09-19T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.MTA1OWRmZDAtNzY2Mi00MWEwLWE3OGEtYWZhMjQ1MjA1OTNi",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "7946e86107aa55c7b80354e983c04a73",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/7946e86107aa55c7b80354e983c04a73",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/7946e86107aa55c7b80354e983c04a73",
+        "sid": "7946e86107aa55c7b80354e983c04a73",
+        "wid": "7946e86107aa55c7b80354e983c04a73"
+      },
+      "episodeNumber": "39",
+      "seasonNumber": "1",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Tyrant's Daughter",
+      "description": "Man offers money to his stepdaughter's fiance to disappear.",
+      "releaseDate": "1955-10-17T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-american_classics.YWNjNGE0ODAtY2IxYS00ZjVkLWI5Y2EtNTczNWJhNjE0ZGVm",
+          "validityStartTime": "2022-12-01T00:00:00",
+          "validityEndTime": "9999-01-01T00:00:00.000Z",
+          "hasMedia": true,
+          "license": "Free"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "f37ec021c7fc5957bfbf6c055edccbc8",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/f37ec021c7fc5957bfbf6c055edccbc8",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/f37ec021c7fc5957bfbf6c055edccbc8",
+        "sid": "f37ec021c7fc5957bfbf6c055edccbc8",
+        "wid": "f37ec021c7fc5957bfbf6c055edccbc8"
+      },
+      "episodeNumber": "4",
+      "seasonNumber": "1954",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Texas Cowgirl",
+      "description": "A showgirl finds a corpse in her hotel room.",
+      "releaseDate": "1954-11-08T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.MTEyYmFhOTEtYzBhOS00YzIyLTgwN2EtODA2YzNhYmJhOGI5",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "fb961442621351d8b5c12fcba0919b4a",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/fb961442621351d8b5c12fcba0919b4a",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/fb961442621351d8b5c12fcba0919b4a",
+        "sid": "fb961442621351d8b5c12fcba0919b4a",
+        "wid": "fb961442621351d8b5c12fcba0919b4a"
+      },
+      "episodeNumber": "5",
+      "seasonNumber": "1954",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Belligerent Ghost",
+      "description": "Dr. Watson is punched in the eye by a dead man.",
+      "releaseDate": "1954-11-15T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.NTVjYjA0MDgtZjJkNi00Nzg4LTkyMGYtNGMyOTNkM2FhODY2",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "d040ebeeca5e5dba95f63d91182ebc92",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/d040ebeeca5e5dba95f63d91182ebc92",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/d040ebeeca5e5dba95f63d91182ebc92",
+        "sid": "d040ebeeca5e5dba95f63d91182ebc92",
+        "wid": "d040ebeeca5e5dba95f63d91182ebc92"
+      },
+      "episodeNumber": "7",
+      "seasonNumber": "1954",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Winthrop Legend",
+      "description": "Silver coins are clues to mysterious death warnings.",
+      "releaseDate": "1954-11-29T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ZGNhZWRhM2YtNDk4OC00N2Y5LWJiYWYtOTNjMGIxMmY5NWZm",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "9a410aa410f057fa85b809ad6422f1e7",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/9a410aa410f057fa85b809ad6422f1e7",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/9a410aa410f057fa85b809ad6422f1e7",
+        "sid": "9a410aa410f057fa85b809ad6422f1e7",
+        "wid": "9a410aa410f057fa85b809ad6422f1e7"
+      },
+      "episodeNumber": "12",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Shoeless Engineer",
+      "description": "A mute girl tries to warn an engineer that he will soon be killed.",
+      "releaseDate": "1955-01-03T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ZjE0MTJjMWYtMWY2NC00ZDZhLWJmNzgtNDA1YWY0NzY5Mjcw",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e30aff636bbb591fa7d069a2c58c5728",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e30aff636bbb591fa7d069a2c58c5728",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e30aff636bbb591fa7d069a2c58c5728",
+        "sid": "e30aff636bbb591fa7d069a2c58c5728",
+        "wid": "e30aff636bbb591fa7d069a2c58c5728"
+      },
+      "episodeNumber": "15",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Singing Violin",
+      "description": "A young woman is driven mad by a stepfather who wants her fortune.",
+      "releaseDate": "1955-01-24T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.NzlkOGYyYWUtNDkyMy00N2Q5LWE3YzYtZjc4M2Y1ZWQ2Mjk0",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e95d38a8227154e88deb57e3952d54dd",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e95d38a8227154e88deb57e3952d54dd",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e95d38a8227154e88deb57e3952d54dd",
+        "sid": "e95d38a8227154e88deb57e3952d54dd",
+        "wid": "e95d38a8227154e88deb57e3952d54dd"
+      },
+      "episodeNumber": "18",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Thistle Killer",
+      "description": "A London cabbie murders his victims by posing as a police officer.",
+      "releaseDate": "1955-02-14T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.MjZlYTQzZmYtMmZjZC00MzZhLTlkMGUtMGI2MWM3MTdmMzQ4",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "db76580cbbbc5ba4912687471b29e34d",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/db76580cbbbc5ba4912687471b29e34d",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/db76580cbbbc5ba4912687471b29e34d",
+        "sid": "db76580cbbbc5ba4912687471b29e34d",
+        "wid": "db76580cbbbc5ba4912687471b29e34d"
+      },
+      "episodeNumber": "19",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Vanished Detective",
+      "description": "Watson and his companion seek Sherlock Holmes, who has seemingly vanished.",
+      "releaseDate": "1955-02-21T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.Zjk1OGYzOTAtYjY0MC00OWNmLWI3YjUtMTU2ZDVjOTRjMmQ2",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "3099e886cc3c5b33942a43987f6e36f4",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/3099e886cc3c5b33942a43987f6e36f4",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/3099e886cc3c5b33942a43987f6e36f4",
+        "sid": "3099e886cc3c5b33942a43987f6e36f4",
+        "wid": "3099e886cc3c5b33942a43987f6e36f4"
+      },
+      "episodeNumber": "21",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Reluctant Carpenter",
+      "description": "A pyromaniac is blackmailing the City of London.",
+      "releaseDate": "1955-03-07T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.NzM3MDY3ZTUtMmQ5NC00YTc5LTg2ZGEtYmFkMGU5ODAxYTVm",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "d24cabb3fc335dc4b31dbb4bbdc17065",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/d24cabb3fc335dc4b31dbb4bbdc17065",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/d24cabb3fc335dc4b31dbb4bbdc17065",
+        "sid": "d24cabb3fc335dc4b31dbb4bbdc17065",
+        "wid": "d24cabb3fc335dc4b31dbb4bbdc17065"
+      },
+      "episodeNumber": "27",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Perfect Husband",
+      "description": "An art dealer warns his wife that she will be his eighth murder victim.",
+      "releaseDate": "1955-05-02T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ZTY1NGFiODEtYjhjZi00ODkxLWI4MjctMTRiNzZlMDAxNDk4",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "51917b9568625379a00f459521cac2c7",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/51917b9568625379a00f459521cac2c7",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/51917b9568625379a00f459521cac2c7",
+        "sid": "51917b9568625379a00f459521cac2c7",
+        "wid": "51917b9568625379a00f459521cac2c7"
+      },
+      "episodeNumber": "32",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Impromptu Performance",
+      "description": "Holmes finds his life in jeopardy when he is duped by an actor.",
+      "releaseDate": "1955-06-06T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ODQ4NTUzNTYtY2Q2ZC00ZTg1LWFlNmYtZWM5M2YwZjk5NWE1",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e66c8b453d465e14841a44d8ed1f2401",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e66c8b453d465e14841a44d8ed1f2401",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e66c8b453d465e14841a44d8ed1f2401",
+        "sid": "e66c8b453d465e14841a44d8ed1f2401",
+        "wid": "e66c8b453d465e14841a44d8ed1f2401"
+      },
+      "episodeNumber": "34",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Royal Murder",
+      "description": "Holmes and Watson witness a murder while dining at a cabin belonging to royalty.",
+      "releaseDate": "1955-06-27T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.NmFiNzU2M2YtYzdmNS00Mjg5LTk0ZDYtMTA0NWNiZjU0OTUx",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "89839c07cdc75b56a978496f42b30b3e",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/89839c07cdc75b56a978496f42b30b3e",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/89839c07cdc75b56a978496f42b30b3e",
+        "sid": "89839c07cdc75b56a978496f42b30b3e",
+        "wid": "89839c07cdc75b56a978496f42b30b3e"
+      },
+      "episodeNumber": "35",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Haunted Gainsborough",
+      "description": "Holmes investigates the mystery of a ghost in a castle.",
+      "releaseDate": "1955-07-04T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.ZmZjNGYzNDMtNDNjMC00MThkLTk3ZjEtODU2ZjI3ZjE4ZWFj",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "e02f068739db5166bf5c42592b5abce9",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/e02f068739db5166bf5c42592b5abce9",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/e02f068739db5166bf5c42592b5abce9",
+        "sid": "e02f068739db5166bf5c42592b5abce9",
+        "wid": "e02f068739db5166bf5c42592b5abce9"
+      },
+      "episodeNumber": "38",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Diamond Tooth",
+      "description": "Holmes attempts to solve London's most celebrated murder mystery.",
+      "releaseDate": "1955-09-19T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.MGE0Y2YxNmQtZjJmOS00Nzc3LWEzZjAtNmE1NzNjNTllNjIx",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "id": "f5ff4596df8257a9b91a03595b89bfb3",
+        "mediaType": "episode",
+        "source": "roku",
+        "href": "https://content.sr.roku.com/content/v1/roku-trc/f5ff4596df8257a9b91a03595b89bfb3",
+        "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/f5ff4596df8257a9b91a03595b89bfb3",
+        "sid": "f5ff4596df8257a9b91a03595b89bfb3",
+        "wid": "f5ff4596df8257a9b91a03595b89bfb3"
+      },
+      "episodeNumber": "39",
+      "seasonNumber": "1955",
+      "runTimeSeconds": 1500,
+      "title": "The Case of the Tyrant's Daughter",
+      "description": "Man offers money to his stepdaughter's fiance to disappear.",
+      "releaseDate": "1955-10-17T00:00:00Z",
+      "viewOptions": [
+        {
+          "playId": "s-cinedigm_dove.YmVlN2JlMzEtYjAwMy00NzhjLTlkNzgtNDk2NjI0ZjY3ZDNm",
+          "validityStartTime": "2021-10-01T12:00:00",
+          "validityEndTime": "2031-09-29T23:59:59",
+          "hasMedia": true,
+          "license": "Subscription"
+        }
+      ]
+    }
+  ],
+  "title": "The Adventures of Sherlock Holmes",
+  "description": "A television adaptation of some of Sir Arthur Conan Doyle's popular stories.",
+  "releaseDate": "1954-10-18T00:00:00Z",
+  "viewOptions": [
+    {
+      "playId": "s-american_classics.MDQzMTNmMmYtMGQzZC00YTU0LTk4ODktMDEwODQ2YmU4MjVh",
+      "validityStartTime": "2022-12-01T00:00:00Z",
+      "validityEndTime": "9999-01-01T00:00:00Z",
+      "hasMedia": true,
+      "license": "Free"
+    },
+    {
+      "playId": "s-cinedigm_dove.NmRmZGY1MDAtYTNjNC00MDdlLTkyYTAtZjRmM2U4OTUxMjgw",
+      "validityStartTime": "2021-10-01T12:00:00Z",
+      "validityEndTime": "2031-09-29T23:59:59Z",
+      "hasMedia": true,
+      "license": "Subscription"
+    }
+  ],
+  "meta": {
+    "id": "0f12f68222925624b0143ae31ab647bf",
+    "mediaType": "series",
+    "source": "roku",
+    "href": "https://content.sr.roku.com/content/v1/roku-trc/0f12f68222925624b0143ae31ab647bf",
+    "hrefV2": "https://content-detail.sr.roku.com/content-detail/v1/roku-trc/0f12f68222925624b0143ae31ab647bf",
+    "sid": "0f12f68222925624b0143ae31ab647bf"
+  },
+  "adminInclude": {},
+  "trackerOverrides": {
+    "item_server_data": "viewOptions=||american_classics|Free||Y;|cinedigm_dove||Subscription|N|Y"
+  }
+}
