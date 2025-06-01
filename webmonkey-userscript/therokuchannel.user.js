@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         The Roku Channel
 // @description  Improve site usability. Watch videos in external player.
-// @version      1.1.0
+// @version      1.2.0
 // @match        *://*.therokuchannel.roku.com/details/*
 // @match        *://*.therokuchannel.roku.com/watch/*
 // @icon         https://therokuchannel.roku.com/favicon.ico
@@ -594,6 +594,7 @@ var pre_process_roku_content_series = function(roku_content) {
         title:           ep.title,
         summary:         ep.description,
         duration:        ep.runTimeSeconds,
+        date_aired_ms:   ep.releaseDateMs,
         date_aired:      ep.releaseDate,
         date_expiration: ep.viewOptions.validityEndTime,
         license:         ep.viewOptions.license
@@ -619,13 +620,24 @@ var pre_process_roku_content_series = function(roku_content) {
       if (isNaN(a_episode)) a_episode = 0
       if (isNaN(b_episode)) b_episode = 0
 
-      return (a_episode === b_episode)
-        ? 0
-        : (
-            (user_options.common.sort_newest_first)
-              ? ((a_episode > b_episode) ? -1 : 1)
-              : ((a_episode < b_episode) ? -1 : 1)
-          )
+      if (a_episode !== b_episode) {
+        // sort by episode
+        return (user_options.common.sort_newest_first)
+          ? ((a_episode > b_episode) ? -1 : 1)
+          : ((a_episode < b_episode) ? -1 : 1)
+      }
+
+      var a_aired = a.date_aired_ms || 0
+      var b_aired = b.date_aired_ms || 0
+
+      if (a_aired !== b_aired) {
+        // sort by release date
+        return (user_options.common.sort_newest_first)
+          ? ((a_aired > b_aired) ? -1 : 1)
+          : ((a_aired < b_aired) ? -1 : 1)
+      }
+
+      return 0
     })
 }
 
@@ -720,8 +732,10 @@ var normalize_roku_content = function(ep) {
   if (ep.runTimeSeconds)
     ep.runTimeSeconds = convertSecondsToReadableString(ep.runTimeSeconds)
 
-  if (ep.releaseDate)
-    ep.releaseDate = (new Date(ep.releaseDate)).toLocaleString()
+  if (ep.releaseDate) {
+    ep.releaseDateMs = (new Date(ep.releaseDate)).getTime()
+    ep.releaseDate   = (new Date(ep.releaseDate)).toLocaleString()
+  }
 
   if (ep.viewOptions.validityEndTime)
     ep.viewOptions.validityEndTime = (new Date(ep.viewOptions.validityEndTime)).toLocaleString()
