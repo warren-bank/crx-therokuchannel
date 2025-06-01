@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------- search results:
+
+https://therokuchannel.roku.com/search/superman
+
+remove non-free search results:
+===============================
+
+[...document.querySelectorAll('div.roku-collection-item > span > div + span > span')]
+.filter(el => el.textContent.trim() === '$')
+.forEach(el => {
+  const div_roku_collection_item = el.parentElement.parentElement.parentElement
+  div_roku_collection_item.parentElement.removeChild(div_roku_collection_item)
+})
+
+--------------------------------------------------------------------------------

@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         The Roku Channel
 // @description  Improve site usability. Watch videos in external player.
-// @version      1.2.0
+// @version      1.3.0
 // @match        *://*.therokuchannel.roku.com/details/*
 // @match        *://*.therokuchannel.roku.com/watch/*
+// @match        *://*.therokuchannel.roku.com/search/*
 // @icon         https://therokuchannel.roku.com/favicon.ico
 // @run-at       document-end
 // @grant        unsafeWindow
@@ -21,9 +22,12 @@
 var user_options = {
   "common": {
     "debug_verbosity":              0,  // 0 = silent. 1 = console log. 2 = window alert. 3 = window alert + conditional breakpoint.
-    "init_delay_ms":                2500,
     "sort_newest_first":            false,
-    "filter_subscription_content":  true
+    "filter_subscription_content":  true,
+    "init_delay_ms": {
+      "search_results": 5000,
+      "roku_content":   2500
+    }
   },
   "webmonkey": {
     "post_intent_redirect_to_url":  null  // "about:blank"
@@ -1253,10 +1257,10 @@ var make_webcast_reloaded_div = function(video_data) {
   return div
 }
 
-// ----------------------------------------------------------------------------- bootstrap
+// ----------------------------------------------------------------------------- bootstrap: roku content
 
-var page_init = function() {
-  debug('initializing..', true)
+var init_roku_content = function() {
+  debug('initializing roku content..', true)
 
   try {
     state.csrf_token = unsafeWindow.__Roku_App_Initial_Values.resource.csrf
@@ -1274,7 +1278,57 @@ var page_init = function() {
   }
 }
 
-if (user_options.common.init_delay_ms)
-  unsafeWindow.setTimeout(page_init, user_options.common.init_delay_ms)
-else
-  page_init()
+// ----------------------------------------------------------------------------- bootstrap: search results
+
+var init_search_results = function() {
+  var subscription_spans, subscription_span, subscription_item
+
+  try {
+    if (!user_options.common.filter_subscription_content) return
+
+    subscription_spans = document.querySelectorAll('div.roku-collection-item > span > div + span > span:not([x-skip])')
+    if (!subscription_spans || !subscription_spans.length) return
+
+    subscription_spans = Array.prototype.slice.call(subscription_spans)
+
+    while(subscription_spans.length) {
+      subscription_span = subscription_spans.shift()
+
+      if (subscription_span.textContent.trim() === '$') {
+        subscription_item = subscription_span.parentElement.parentElement.parentElement
+        subscription_item.parentElement.removeChild(subscription_item)
+      }
+      else {
+        subscription_span.setAttribute('x-skip', '1')
+      }
+    }
+
+    // wait a brief period of time, then re-process the search results.
+    // After non-free content is filtered, additional search results that previously were not visible are added to the DOM.
+    // This takes a little time, and the newly added content must also be filtered.
+
+    unsafeWindow.setTimeout(init_search_results, 500)
+  }
+  catch(e) {
+    debug(e.message, true)
+  }
+}
+
+// ----------------------------------------------------------------------------- bootstrap: page
+
+var init_page = function() {
+  var is_search_result = (unsafeWindow.location.pathname.indexOf('/search/') === 0)
+  var init_delay_ms    = (is_search_result)
+    ? Number(user_options.common.init_delay_ms.search_results)
+    : Number(user_options.common.init_delay_ms.roku_content)
+
+  if (!init_delay_ms || isNaN(init_delay_ms))
+    init_delay_ms = 0
+
+  if (is_search_result)
+    unsafeWindow.setTimeout(init_search_results, init_delay_ms)
+  else
+    unsafeWindow.setTimeout(init_roku_content, init_delay_ms)
+}
+
+init_page()
