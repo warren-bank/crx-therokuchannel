@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         The Roku Channel
 // @description  Improve site usability. Watch videos in external player.
-// @version      1.3.0
+// @version      1.4.0
 // @match        *://*.therokuchannel.roku.com/details/*
 // @match        *://*.therokuchannel.roku.com/watch/*
 // @match        *://*.therokuchannel.roku.com/search/*
@@ -27,6 +27,10 @@ var user_options = {
     "init_delay_ms": {
       "search_results": 5000,
       "roku_content":   2500
+    },
+    "prioritize_captions": {
+      "language": "en",
+      "type": "SUBTITLE"
     }
   },
   "webmonkey": {
@@ -777,19 +781,10 @@ var download_video_content = function(roku_id, play_id, callback) {
 var pre_process_video_content = function(video_content) {
   var video_sources = []
   var video_type, caption_url
-  var i, txt, vid, video_data
+  var i, vid, video_data
   try {
     if (Array.isArray(video_content.playbackMedia.videos)) {
-      caption_url = null
-      if (Array.isArray(video_content.playbackMedia.captions)) {
-        for (i=0; i < video_content.playbackMedia.captions.length; i++) {
-          txt = video_content.playbackMedia.captions[i]
-          if (txt && (typeof txt === 'object') && txt.url) {
-            caption_url = txt.url
-            break
-          }
-        }
-      }
+      caption_url = get_caption_url(video_content.playbackMedia.captions)
 
       for (i=0; i < video_content.playbackMedia.videos.length; i++) {
         vid = video_content.playbackMedia.videos[i]
@@ -848,6 +843,48 @@ var pre_process_video_content = function(video_content) {
     debug(e.message, true)
   }
   return video_sources
+}
+
+var get_caption_url = function(captions) {
+  var caption_url = null
+
+  if (Array.isArray(captions)) {
+    captions = captions
+      .filter(function(txt) {
+        return (txt && (typeof txt === 'object') && txt.url)
+      })
+      .sort(function(a, b) {
+        var a_lang = a.language
+        var b_lang = b.language
+
+        if (a_lang !== b_lang) {
+          if (a_lang && (a_lang === user_options.common.prioritize_captions.language)) return -1
+          if (b_lang && (b_lang === user_options.common.prioritize_captions.language)) return 1
+          return 0
+        }
+        else if (a_lang && (a_lang === user_options.common.prioritize_captions.language)) {
+          var a_type = a.captionType
+          var b_type = b.captionType
+
+          if (a_type !== b_type) {
+            if (a_type && (a_type === user_options.common.prioritize_captions.type)) return -1
+            if (b_type && (b_type === user_options.common.prioritize_captions.type)) return 1
+            return 0
+          }
+          else {
+            return 0
+          }
+        }
+        else {
+          return 0
+        }
+      })
+
+    if (captions.length)
+      caption_url = captions[0].url
+  }
+
+  return caption_url
 }
 
 // ----------------------------------------------------------------------------- DOM: static skeleton
